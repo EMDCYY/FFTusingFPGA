@@ -1,8 +1,9 @@
 ![](https://github.com/EMDCYY/FFT-using-FPGA/blob/master/Reference/fft_butterfly.jpg)  
 
-![](https://github.com/EMDCYY/FFT-using-FPGA/blob/master/Reference/%E5%8D%95%E8%B7%AF%E4%BF%A1%E5%8F%B7FFT%E5%90%8E%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B.jpg) 
-  
+ 
 ![](https://github.com/EMDCYY/FFT-using-FPGA/blob/master/Reference/adm_software_design.jpg)  
+
+![](https://github.com/EMDCYY/FFT-using-FPGA/blob/master/Reference/%E5%8D%95%E8%B7%AF%E4%BF%A1%E5%8F%B7FFT%E5%90%8E%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B.jpg) 
 
 ![](https://github.com/EMDCYY/FFT-using-FPGA/blob/master/Reference/%E5%8F%8C%E8%B7%AF%E4%BF%A1%E5%8F%B7FFT%E5%90%8E%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B.jpg)  
 
