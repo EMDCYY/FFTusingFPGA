@@ -1,0 +1,15 @@
+# Output products list for <transfer>
+_xmsgs\pn_parser.xmsgs
+transfer.asy
+transfer.gise
+transfer.ngc
+transfer.sym
+transfer.v
+transfer.veo
+transfer.vhd
+transfer.vho
+transfer.xco
+transfer.xise
+transfer_flist.txt
+transfer_readme.txt
+transfer_xmdf.tcl

@@ -1,0 +1,15 @@
+# Output products list for <punitpos>
+_xmsgs\pn_parser.xmsgs
+punitpos.asy
+punitpos.gise
+punitpos.ngc
+punitpos.sym
+punitpos.v
+punitpos.veo
+punitpos.vhd
+punitpos.vho
+punitpos.xco
+punitpos.xise
+punitpos_flist.txt
+punitpos_readme.txt
+punitpos_xmdf.tcl

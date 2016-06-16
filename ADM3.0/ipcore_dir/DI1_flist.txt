@@ -1,0 +1,15 @@
+# Output products list for <DI1>
+DI1.asy
+DI1.gise
+DI1.ngc
+DI1.sym
+DI1.v
+DI1.veo
+DI1.vhd
+DI1.vho
+DI1.xco
+DI1.xise
+DI1_flist.txt
+DI1_readme.txt
+DI1_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

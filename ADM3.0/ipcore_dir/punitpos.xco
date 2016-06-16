@@ -1,0 +1,54 @@
+##############################################################
+#
+# Xilinx Core Generator version 13.1
+# Date: Mon Aug 19 03:34:07 2013
+#
+##############################################################
+#
+#  This file contains the customisation parameters for a
+#  Xilinx CORE Generator IP GUI. It is strongly recommended
+#  that you do not manually alter this file as it may cause
+#  unexpected and unsupported behavior.
+#
+##############################################################
+#
+# BEGIN Project Options
+SET addpads = false
+SET asysymbol = true
+SET busformat = BusFormatAngleBracketNotRipped
+SET createndf = false
+SET designentry = Advanced
+SET device = xc3s500e
+SET devicefamily = spartan3e
+SET flowvendor = Other
+SET formalverification = false
+SET foundationsym = false
+SET implementationfiletype = Ngc
+SET package = pq208
+SET removerpms = false
+SET simulationfiles = Behavioral
+SET speedgrade = -4
+SET verilogsim = true
+SET vhdlsim = true
+# END Project Options
+# BEGIN Select
+SELECT Divider_Generator family Xilinx,_Inc. 3.0
+# END Select
+# BEGIN Parameters
+CSET algorithm_type=Radix2
+CSET ce=false
+CSET clocks_per_division=1
+CSET component_name=punitpos
+CSET divide_by_zero_detect=false
+CSET dividend_and_quotient_width=25
+CSET divisor_width=24
+CSET fractional_width=24
+CSET latency=27
+CSET latency_configuration=Automatic
+CSET operand_sign=Unsigned
+CSET remainder_type=Remainder
+CSET sclr=false
+CSET sclr_ce_priority=SCLR_overrides_CE
+# END Parameters
+GENERATE
+# CRC: e9a440a7

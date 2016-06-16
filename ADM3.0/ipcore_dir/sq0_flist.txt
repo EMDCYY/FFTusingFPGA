@@ -1,0 +1,15 @@
+# Output products list for <sq0>
+_xmsgs\pn_parser.xmsgs
+sq0.asy
+sq0.gise
+sq0.ngc
+sq0.sym
+sq0.v
+sq0.veo
+sq0.vhd
+sq0.vho
+sq0.xco
+sq0.xise
+sq0_flist.txt
+sq0_readme.txt
+sq0_xmdf.tcl

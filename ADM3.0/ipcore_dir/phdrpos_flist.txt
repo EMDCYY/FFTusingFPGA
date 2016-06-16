@@ -1,0 +1,15 @@
+# Output products list for <phdrpos>
+_xmsgs\pn_parser.xmsgs
+phdrpos.asy
+phdrpos.gise
+phdrpos.ngc
+phdrpos.sym
+phdrpos.v
+phdrpos.veo
+phdrpos.vhd
+phdrpos.vho
+phdrpos.xco
+phdrpos.xise
+phdrpos_flist.txt
+phdrpos_readme.txt
+phdrpos_xmdf.tcl

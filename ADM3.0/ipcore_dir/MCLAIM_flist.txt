@@ -1,0 +1,15 @@
+# Output products list for <MCLAIM>
+MCLAIM.asy
+MCLAIM.gise
+MCLAIM.ngc
+MCLAIM.sym
+MCLAIM.v
+MCLAIM.veo
+MCLAIM.vhd
+MCLAIM.vho
+MCLAIM.xco
+MCLAIM.xise
+MCLAIM_flist.txt
+MCLAIM_readme.txt
+MCLAIM_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

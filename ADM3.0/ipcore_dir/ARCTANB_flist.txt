@@ -1,0 +1,15 @@
+# Output products list for <ARCTANB>
+ARCTANB.asy
+ARCTANB.gise
+ARCTANB.ngc
+ARCTANB.sym
+ARCTANB.v
+ARCTANB.veo
+ARCTANB.vhd
+ARCTANB.vho
+ARCTANB.xco
+ARCTANB.xise
+ARCTANB_flist.txt
+ARCTANB_readme.txt
+ARCTANB_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

@@ -1,0 +1,15 @@
+# Output products list for <FFTB>
+FFTB.asy
+FFTB.gise
+FFTB.ngc
+FFTB.sym
+FFTB.v
+FFTB.veo
+FFTB.vhd
+FFTB.vho
+FFTB.xco
+FFTB.xise
+FFTB_flist.txt
+FFTB_readme.txt
+FFTB_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

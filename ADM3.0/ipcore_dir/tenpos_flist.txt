@@ -1,0 +1,15 @@
+# Output products list for <tenpos>
+_xmsgs\pn_parser.xmsgs
+tenpos.asy
+tenpos.gise
+tenpos.ngc
+tenpos.sym
+tenpos.v
+tenpos.veo
+tenpos.vhd
+tenpos.vho
+tenpos.xco
+tenpos.xise
+tenpos_flist.txt
+tenpos_readme.txt
+tenpos_xmdf.tcl

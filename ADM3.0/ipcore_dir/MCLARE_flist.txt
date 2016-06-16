@@ -1,0 +1,15 @@
+# Output products list for <MCLARE>
+MCLARE.asy
+MCLARE.gise
+MCLARE.ngc
+MCLARE.sym
+MCLARE.v
+MCLARE.veo
+MCLARE.vhd
+MCLARE.vho
+MCLARE.xco
+MCLARE.xise
+MCLARE_flist.txt
+MCLARE_readme.txt
+MCLARE_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

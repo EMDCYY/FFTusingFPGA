@@ -1,0 +1,16 @@
+# Output products list for <FIFOA>
+FIFOA.asy
+FIFOA.gise
+FIFOA.ngc
+FIFOA.sym
+FIFOA.v
+FIFOA.veo
+FIFOA.vhd
+FIFOA.vho
+FIFOA.xco
+FIFOA.xise
+FIFOA_flist.txt
+FIFOA_xmdf.tcl
+_xmsgs\pn_parser.xmsgs
+fifo_generator_readme.txt
+fifo_generator_ug175.pdf

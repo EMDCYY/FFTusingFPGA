@@ -1,0 +1,15 @@
+# Output products list for <MLPBRE>
+MLPBRE.asy
+MLPBRE.gise
+MLPBRE.ngc
+MLPBRE.sym
+MLPBRE.v
+MLPBRE.veo
+MLPBRE.vhd
+MLPBRE.vho
+MLPBRE.xco
+MLPBRE.xise
+MLPBRE_flist.txt
+MLPBRE_readme.txt
+MLPBRE_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

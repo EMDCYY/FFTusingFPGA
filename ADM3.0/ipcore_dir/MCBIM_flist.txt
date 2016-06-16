@@ -1,0 +1,15 @@
+# Output products list for <MCBIM>
+MCBIM.asy
+MCBIM.gise
+MCBIM.ngc
+MCBIM.sym
+MCBIM.v
+MCBIM.veo
+MCBIM.vhd
+MCBIM.vho
+MCBIM.xco
+MCBIM.xise
+MCBIM_flist.txt
+MCBIM_readme.txt
+MCBIM_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

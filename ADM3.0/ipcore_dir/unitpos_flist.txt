@@ -1,0 +1,15 @@
+# Output products list for <unitpos>
+_xmsgs\pn_parser.xmsgs
+unitpos.asy
+unitpos.gise
+unitpos.ngc
+unitpos.sym
+unitpos.v
+unitpos.veo
+unitpos.vhd
+unitpos.vho
+unitpos.xco
+unitpos.xise
+unitpos_flist.txt
+unitpos_readme.txt
+unitpos_xmdf.tcl

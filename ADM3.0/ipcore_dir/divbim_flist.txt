@@ -1,0 +1,15 @@
+# Output products list for <divbim>
+_xmsgs\pn_parser.xmsgs
+divbim.asy
+divbim.gise
+divbim.ngc
+divbim.sym
+divbim.v
+divbim.veo
+divbim.vhd
+divbim.vho
+divbim.xco
+divbim.xise
+divbim_flist.txt
+divbim_readme.txt
+divbim_xmdf.tcl

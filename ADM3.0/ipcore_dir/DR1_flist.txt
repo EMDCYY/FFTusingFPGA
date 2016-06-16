@@ -1,0 +1,15 @@
+# Output products list for <DR1>
+DR1.asy
+DR1.gise
+DR1.ngc
+DR1.sym
+DR1.v
+DR1.veo
+DR1.vhd
+DR1.vho
+DR1.xco
+DR1.xise
+DR1_flist.txt
+DR1_readme.txt
+DR1_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

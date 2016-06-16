@@ -1,0 +1,15 @@
+# Output products list for <ADDA>
+ADDA.asy
+ADDA.gise
+ADDA.ngc
+ADDA.sym
+ADDA.v
+ADDA.veo
+ADDA.vhd
+ADDA.vho
+ADDA.xco
+ADDA.xise
+ADDA_flist.txt
+ADDA_readme.txt
+ADDA_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

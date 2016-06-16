@@ -1,0 +1,69 @@
+##############################################################
+#
+# Xilinx Core Generator version 13.1
+# Date: Sat Aug 17 02:55:28 2013
+#
+##############################################################
+#
+#  This file contains the customisation parameters for a
+#  Xilinx CORE Generator IP GUI. It is strongly recommended
+#  that you do not manually alter this file as it may cause
+#  unexpected and unsupported behavior.
+#
+##############################################################
+#
+# BEGIN Project Options
+SET addpads = false
+SET asysymbol = true
+SET busformat = BusFormatAngleBracketNotRipped
+SET createndf = false
+SET designentry = Advanced
+SET device = xc3s500e
+SET devicefamily = spartan3e
+SET flowvendor = Other
+SET formalverification = false
+SET foundationsym = false
+SET implementationfiletype = Ngc
+SET package = pq208
+SET removerpms = false
+SET simulationfiles = Behavioral
+SET speedgrade = -4
+SET verilogsim = true
+SET vhdlsim = true
+# END Project Options
+# BEGIN Select
+SELECT Adder_Subtracter xilinx.com:ip:c_addsub:11.0
+# END Select
+# BEGIN Parameters
+CSET a_type=Signed
+CSET a_width=24
+CSET add_mode=Subtract
+CSET ainit_value=0
+CSET b_constant=false
+CSET b_type=Signed
+CSET b_value=000000000000000000000000
+CSET b_width=24
+CSET borrow_sense=Active_Low
+CSET bypass=false
+CSET bypass_ce_priority=CE_Overrides_Bypass
+CSET bypass_sense=Active_High
+CSET c_in=false
+CSET c_out=false
+CSET ce=false
+CSET component_name=SUB
+CSET implementation=Fabric
+CSET latency=1
+CSET latency_configuration=Manual
+CSET out_width=24
+CSET sclr=false
+CSET sinit=false
+CSET sinit_value=0
+CSET sset=false
+CSET sync_ce_priority=Sync_Overrides_CE
+CSET sync_ctrl_priority=Reset_Overrides_Set
+# END Parameters
+# BEGIN Extra information
+MISC pkg_timestamp=2011-02-03T22:05:48.000Z
+# END Extra information
+GENERATE
+# CRC: ee15ec1b

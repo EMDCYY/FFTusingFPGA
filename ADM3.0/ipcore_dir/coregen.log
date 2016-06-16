@@ -1,0 +1,13 @@
+CoreGen has not been configured with any user repositories.
+CoreGen has been configured with the following Xilinx repositories:
+ - 'D:\Xilinx\13.1\ISE_DS\ISE\coregen\' []
+INFO:sim:927 - Generating component instance 'FFTB' of 'xilinx.com:ip:xfft:7.1'
+   from
+   'D:\Xilinx\13.1\ISE_DS\ISE\coregen\ip\xilinx\dsp\com\xilinx\ip\xfft_v7_1\comp
+   onent.xml'.
+Applying current project options...
+Finished applying current project options.
+Executing Tcl generator...
+Cancelled executing Tcl generator.
+Wrote file for project 'E:\Design of Laser
+Tracer\8.ADM\ADMDSP_CODE\ADM3.0\ipcore_dir\FFTB.cgp'.

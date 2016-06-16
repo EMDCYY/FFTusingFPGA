@@ -1,0 +1,15 @@
+# Output products list for <ADDB>
+ADDB.asy
+ADDB.gise
+ADDB.ngc
+ADDB.sym
+ADDB.v
+ADDB.veo
+ADDB.vhd
+ADDB.vho
+ADDB.xco
+ADDB.xise
+ADDB_flist.txt
+ADDB_readme.txt
+ADDB_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

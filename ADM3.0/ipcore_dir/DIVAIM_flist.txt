@@ -1,0 +1,15 @@
+# Output products list for <DIVAIM>
+DIVAIM.asy
+DIVAIM.gise
+DIVAIM.ngc
+DIVAIM.sym
+DIVAIM.v
+DIVAIM.veo
+DIVAIM.vhd
+DIVAIM.vho
+DIVAIM.xco
+DIVAIM.xise
+DIVAIM_flist.txt
+DIVAIM_readme.txt
+DIVAIM_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

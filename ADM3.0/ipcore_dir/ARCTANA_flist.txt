@@ -1,0 +1,15 @@
+# Output products list for <ARCTANA>
+ARCTANA.asy
+ARCTANA.gise
+ARCTANA.ngc
+ARCTANA.sym
+ARCTANA.v
+ARCTANA.veo
+ARCTANA.vhd
+ARCTANA.vho
+ARCTANA.xco
+ARCTANA.xise
+ARCTANA_flist.txt
+ARCTANA_readme.txt
+ARCTANA_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

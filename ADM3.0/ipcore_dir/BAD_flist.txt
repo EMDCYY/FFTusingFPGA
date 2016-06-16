@@ -1,0 +1,15 @@
+# Output products list for <BAD>
+BAD.asy
+BAD.gise
+BAD.ngc
+BAD.sym
+BAD.v
+BAD.veo
+BAD.vhd
+BAD.vho
+BAD.xco
+BAD.xise
+BAD_flist.txt
+BAD_readme.txt
+BAD_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

@@ -1,0 +1,15 @@
+# Output products list for <mlpaim>
+_xmsgs\pn_parser.xmsgs
+mlpaim.asy
+mlpaim.gise
+mlpaim.ngc
+mlpaim.sym
+mlpaim.v
+mlpaim.veo
+mlpaim.vhd
+mlpaim.vho
+mlpaim.xco
+mlpaim.xise
+mlpaim_flist.txt
+mlpaim_readme.txt
+mlpaim_xmdf.tcl

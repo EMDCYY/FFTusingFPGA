@@ -1,0 +1,15 @@
+# Output products list for <FFTAB>
+FFTAB.asy
+FFTAB.gise
+FFTAB.ngc
+FFTAB.sym
+FFTAB.v
+FFTAB.veo
+FFTAB.vhd
+FFTAB.vho
+FFTAB.xco
+FFTAB.xise
+FFTAB_flist.txt
+FFTAB_readme.txt
+FFTAB_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

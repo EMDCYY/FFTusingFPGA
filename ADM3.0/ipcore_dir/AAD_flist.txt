@@ -1,0 +1,15 @@
+# Output products list for <AAD>
+AAD.asy
+AAD.gise
+AAD.ngc
+AAD.sym
+AAD.v
+AAD.veo
+AAD.vhd
+AAD.vho
+AAD.xco
+AAD.xise
+AAD_flist.txt
+AAD_readme.txt
+AAD_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

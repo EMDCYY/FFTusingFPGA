@@ -1,0 +1,15 @@
+# Output products list for <ptenpos>
+_xmsgs\pn_parser.xmsgs
+ptenpos.asy
+ptenpos.gise
+ptenpos.ngc
+ptenpos.sym
+ptenpos.v
+ptenpos.veo
+ptenpos.vhd
+ptenpos.vho
+ptenpos.xco
+ptenpos.xise
+ptenpos_flist.txt
+ptenpos_readme.txt
+ptenpos_xmdf.tcl

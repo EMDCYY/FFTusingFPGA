@@ -1,0 +1,15 @@
+# Output products list for <DIVA>
+DIVA.asy
+DIVA.gise
+DIVA.ngc
+DIVA.sym
+DIVA.v
+DIVA.veo
+DIVA.vhd
+DIVA.vho
+DIVA.xco
+DIVA.xise
+DIVA_flist.txt
+DIVA_readme.txt
+DIVA_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

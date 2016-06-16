@@ -1,0 +1,15 @@
+# Output products list for <MCLB>
+MCLB.asy
+MCLB.gise
+MCLB.ngc
+MCLB.sym
+MCLB.v
+MCLB.veo
+MCLB.vhd
+MCLB.vho
+MCLB.xco
+MCLB.xise
+MCLB_flist.txt
+MCLB_readme.txt
+MCLB_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

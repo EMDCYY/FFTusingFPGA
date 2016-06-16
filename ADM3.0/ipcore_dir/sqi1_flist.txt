@@ -1,0 +1,15 @@
+# Output products list for <sqi1>
+_xmsgs\pn_parser.xmsgs
+sqi1.asy
+sqi1.gise
+sqi1.ngc
+sqi1.sym
+sqi1.v
+sqi1.veo
+sqi1.vhd
+sqi1.vho
+sqi1.xco
+sqi1.xise
+sqi1_flist.txt
+sqi1_readme.txt
+sqi1_xmdf.tcl

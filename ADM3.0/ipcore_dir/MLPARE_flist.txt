@@ -1,0 +1,15 @@
+# Output products list for <MLPARE>
+MLPARE.asy
+MLPARE.gise
+MLPARE.ngc
+MLPARE.sym
+MLPARE.v
+MLPARE.veo
+MLPARE.vhd
+MLPARE.vho
+MLPARE.xco
+MLPARE.xise
+MLPARE_flist.txt
+MLPARE_readme.txt
+MLPARE_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

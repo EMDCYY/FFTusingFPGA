@@ -1,0 +1,15 @@
+# Output products list for <MLPBIM>
+MLPBIM.asy
+MLPBIM.gise
+MLPBIM.ngc
+MLPBIM.sym
+MLPBIM.v
+MLPBIM.veo
+MLPBIM.vhd
+MLPBIM.vho
+MLPBIM.xco
+MLPBIM.xise
+MLPBIM_flist.txt
+MLPBIM_readme.txt
+MLPBIM_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

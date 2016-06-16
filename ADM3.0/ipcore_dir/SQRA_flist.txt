@@ -1,0 +1,15 @@
+# Output products list for <SQRA>
+SQRA.asy
+SQRA.gise
+SQRA.ngc
+SQRA.sym
+SQRA.v
+SQRA.veo
+SQRA.vhd
+SQRA.vho
+SQRA.xco
+SQRA.xise
+SQRA_flist.txt
+SQRA_readme.txt
+SQRA_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

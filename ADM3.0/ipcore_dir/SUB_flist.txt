@@ -1,0 +1,15 @@
+# Output products list for <SUB>
+SUB.asy
+SUB.gise
+SUB.ngc
+SUB.sym
+SUB.v
+SUB.veo
+SUB.vhd
+SUB.vho
+SUB.xco
+SUB.xise
+SUB_flist.txt
+SUB_readme.txt
+SUB_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

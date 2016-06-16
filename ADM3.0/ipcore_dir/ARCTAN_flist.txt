@@ -1,0 +1,15 @@
+# Output products list for <ARCTAN>
+ARCTAN.asy
+ARCTAN.gise
+ARCTAN.ngc
+ARCTAN.sym
+ARCTAN.v
+ARCTAN.veo
+ARCTAN.vhd
+ARCTAN.vho
+ARCTAN.xco
+ARCTAN.xise
+ARCTAN_flist.txt
+ARCTAN_readme.txt
+ARCTAN_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

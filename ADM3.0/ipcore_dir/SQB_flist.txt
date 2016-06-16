@@ -1,0 +1,15 @@
+# Output products list for <SQB>
+SQB.asy
+SQB.gise
+SQB.ngc
+SQB.sym
+SQB.v
+SQB.veo
+SQB.vhd
+SQB.vho
+SQB.xco
+SQB.xise
+SQB_flist.txt
+SQB_readme.txt
+SQB_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

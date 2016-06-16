@@ -1,0 +1,16 @@
+# Output products list for <FIFOB>
+FIFOB.asy
+FIFOB.gise
+FIFOB.ngc
+FIFOB.sym
+FIFOB.v
+FIFOB.veo
+FIFOB.vhd
+FIFOB.vho
+FIFOB.xco
+FIFOB.xise
+FIFOB_flist.txt
+FIFOB_xmdf.tcl
+_xmsgs\pn_parser.xmsgs
+fifo_generator_readme.txt
+fifo_generator_ug175.pdf

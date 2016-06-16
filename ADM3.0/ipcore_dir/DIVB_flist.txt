@@ -1,0 +1,15 @@
+# Output products list for <DIVB>
+DIVB.asy
+DIVB.gise
+DIVB.ngc
+DIVB.sym
+DIVB.v
+DIVB.veo
+DIVB.vhd
+DIVB.vho
+DIVB.xco
+DIVB.xise
+DIVB_flist.txt
+DIVB_readme.txt
+DIVB_xmdf.tcl
+_xmsgs\pn_parser.xmsgs
