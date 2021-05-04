@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=A_LCD Pin=C61-1
+Removed Pin From Net: NetName=A_LCD Pin=C62-1
+Removed Pin From Net: NetName=A_LCD Pin=C63-1
+Removed Pin From Net: NetName=A_LCD Pin=C64-1
+Removed Pin From Net: NetName=A_LCD Pin=C65-1
+Removed Pin From Net: NetName=A_LCD Pin=C66-1
+Removed Pin From Net: NetName=CTL_REF Pin=U1-12
+Removed Pin From Net: NetName=CTL_MES Pin=U1-15
+Removed Pin From Net: NetName=DDS_SDIO_3 Pin=U1-18
+Removed Pin From Net: NetName=DDS_SDIO_2 Pin=U1-19
+Removed Pin From Net: NetName=DDS_SDIO_1 Pin=U1-22
+Removed Pin From Net: NetName=DDS_SDIO_0 Pin=U1-23
+Removed Pin From Net: NetName=DDS_S_CLK Pin=U1-24
+Removed Pin From Net: NetName=DDS_\C\S\ Pin=U1-25
+Removed Pin From Net: NetName=DDS_IO_UPDATE Pin=U1-28
+Removed Pin From Net: NetName=P3 Pin=U1-29
+Removed Pin From Net: NetName=P2 Pin=U1-30
+Removed Pin From Net: NetName=P1 Pin=U1-31
+Removed Pin From Net: NetName=P0 Pin=U1-33
+Removed Pin From Net: NetName=DDS_CLK_MODE_SEL Pin=U1-34
+Removed Pin From Net: NetName=DDS_PWR_DWN_CTL Pin=U1-35
+Removed Pin From Net: NetName=DDS_MASTER_RESET Pin=U1-36
+Added Component: Designator=C163(1608[0603])
+Added Component: Designator=C164(2012[0805])
+Added Component: Designator=C165(1608[0603])
+Added Component: Designator=C166(2012[0805])
+Added Pin To Net: NetName=A_LCD Pin=C163-1
+Added Pin To Net: NetName=GND Pin=C163-2
+Added Pin To Net: NetName=A_LCD Pin=C164-1
+Added Pin To Net: NetName=GND Pin=C164-2
+Added Pin To Net: NetName=A_LCD Pin=C165-1
+Added Pin To Net: NetName=GND Pin=C165-2
+Added Pin To Net: NetName=A_LCD Pin=C166-1
+Added Pin To Net: NetName=GND Pin=C166-2
+Added Pin To Net: NetName=CTL_REF Pin=U1-160
+Added Pin To Net: NetName=DDS_PWR_DWN_CTL Pin=U1-161
+Added Pin To Net: NetName=DDS_MASTER_RESET Pin=U1-162
+Added Pin To Net: NetName=DDS_SDIO_3 Pin=U1-163
+Added Pin To Net: NetName=DDS_SDIO_2 Pin=U1-164
+Added Pin To Net: NetName=DDS_SDIO_1 Pin=U1-165
+Added Pin To Net: NetName=DDS_SDIO_0 Pin=U1-167
+Added Pin To Net: NetName=DDS_S_CLK Pin=U1-168
+Added Pin To Net: NetName=DDS_\C\S\ Pin=U1-171
+Added Pin To Net: NetName=DDS_IO_UPDATE Pin=U1-172
+Added Pin To Net: NetName=P3 Pin=U1-177
+Added Pin To Net: NetName=P2 Pin=U1-178
+Added Pin To Net: NetName=P1 Pin=U1-179
+Added Pin To Net: NetName=P0 Pin=U1-180
+Added Pin To Net: NetName=DDS_CLK_MODE_SEL Pin=U1-181
+Added Pin To Net: NetName=CTL_MES Pin=U1-185
+Added Pin To Net: NetName=NetC61_1 Pin=C61-1
+Added Pin To Net: NetName=NetC61_1 Pin=C62-1
+Added Pin To Net: NetName=NetC61_1 Pin=C63-1
+Added Pin To Net: NetName=NetC61_1 Pin=C64-1
+Added Pin To Net: NetName=NetC61_1 Pin=C65-1
+Added Pin To Net: NetName=NetC61_1 Pin=C66-1
+Added Net: Name=NetC61_1
+Added Member To Class: ClassName=SH08-PWR1 Member=Component C163 Cap,0.1uF/0603
+Added Member To Class: ClassName=SH08-PWR1 Member=Component C164 Cap,1uF/0805
+Added Member To Class: ClassName=SH08-PWR1 Member=Component C165 Cap,0.1uF/0603
+Added Member To Class: ClassName=SH08-PWR1 Member=Component C166 Cap,1uF/0805

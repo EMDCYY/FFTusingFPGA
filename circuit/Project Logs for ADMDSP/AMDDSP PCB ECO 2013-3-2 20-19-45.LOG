@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=CTL_REF Pin=U1-177
+Added Pin To Net: NetName=CTL_REF Pin=U1-160

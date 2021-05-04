@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CTL_MES Pin=U1-205
+Removed Pin From Net: NetName=P0 Pin=U1-206
+Added Pin To Net: NetName=P0 Pin=U1-205
+Added Pin To Net: NetName=CTL_MES Pin=U1-206

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=CH0_IOUT Pin=L1-1
+Removed Pin From Net: NetName=CH1_IOUT Pin=L5-1
+Removed Pin From Net: NetName=CH3_IOUT Pin=L13-1
+Added Pin To Net: NetName=CH3_IOUT Pin=L1-1
+Added Pin To Net: NetName=CH0_IOUT Pin=L5-1
+Added Pin To Net: NetName=CH1_IOUT Pin=L13-1
+Change Net Name : Old Net Name=CH0_100M New Net Name=CH3_100M
+Change Net Name : Old Net Name=CH1_100M New Net Name=CH0_100M
+Change Net Name : Old Net Name=CH3_4M New Net Name=CH1_4M

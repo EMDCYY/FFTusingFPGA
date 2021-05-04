@@ -1,0 +1,11 @@
+Added Component: Designator=J2(IF_KLD-0202)
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1A
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1B
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2A
+Added Pin To Net: NetName=GND Pin=J2-2B
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3A
+Added Pin To Net: NetName=GND Pin=J2-3B
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Member To Class: ClassName=SH08-PWR1 Member=Component J2 5V INPUT

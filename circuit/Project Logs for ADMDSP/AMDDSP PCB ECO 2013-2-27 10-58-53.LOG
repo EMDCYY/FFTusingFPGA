@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=REFB Pin=C147-1
+Removed Pin From Net: NetName=REFA Pin=C156-1
+Removed Pin From Net: NetName=REFB Pin=U16-6
+Removed Pin From Net: NetName=REFA Pin=U17-6
+Added Pin To Net: NetName=REFA Pin=C147-1
+Added Pin To Net: NetName=REFB Pin=C156-1
+Added Pin To Net: NetName=REFA Pin=U16-6
+Added Pin To Net: NetName=REFB Pin=U17-6

@@ -1,0 +1,20 @@
+Added Component: Designator=C167(1206[3216])
+Added Component: Designator=C168(1206[3216])
+Added Component: Designator=C169(1210[3528])
+Added Component: Designator=TP_9(MYTP)
+Added Component: Designator=U19(SOT230P700X180-4N)
+Added Pin To Net: NetName=A_LCD Pin=C167-1
+Added Pin To Net: NetName=GND Pin=C167-2
+Added Pin To Net: NetName=1V8 Pin=C168-1
+Added Pin To Net: NetName=GND Pin=C168-2
+Added Pin To Net: NetName=1V8 Pin=C169-1
+Added Pin To Net: NetName=GND Pin=C169-2
+Added Pin To Net: NetName=1V8 Pin=TP_9-1
+Added Pin To Net: NetName=GND Pin=U19-1
+Added Pin To Net: NetName=1V8 Pin=U19-2
+Added Pin To Net: NetName=A_LCD Pin=U19-3
+Added Member To Class: ClassName=SH09-PWR2 Member=Component C167 Cap Pol,10uF/16V,1206
+Added Member To Class: ClassName=SH09-PWR2 Member=Component C168 Cap Pol,10uF/16V,1206
+Added Member To Class: ClassName=SH09-PWR2 Member=Component C169 Cap Pol,100uF/25V,1210
+Added Member To Class: ClassName=SH09-PWR2 Member=Component TP_9 1V8
+Added Member To Class: ClassName=SH09-PWR2 Member=Component U19 PWR_LM1XXX

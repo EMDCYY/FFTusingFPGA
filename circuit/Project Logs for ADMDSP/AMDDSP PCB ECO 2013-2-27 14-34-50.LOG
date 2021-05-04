@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C62 Old Footprint=2012[0805] New Footprint=1206[3216]
+Change Component Footprint: Designator=C64 Old Footprint=2012[0805] New Footprint=1206[3216]
+Change Component Footprint: Designator=C66 Old Footprint=2012[0805] New Footprint=1206[3216]
+Change Component Comment : Designator=C66 Old Comment=Cap,1uF/0805 New Comment=Cap Pol,10uF/25V,1206
+Change Component Comment : Designator=C64 Old Comment=Cap,1uF/0805 New Comment=Cap Pol,10uF/25V,1206
+Change Component Comment : Designator=C62 Old Comment=Cap,1uF/0805 New Comment=Cap Pol,10uF/25V,1206

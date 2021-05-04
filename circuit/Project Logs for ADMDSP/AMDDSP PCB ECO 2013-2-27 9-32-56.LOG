@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=C65 Old Footprint=1206[3216] New Footprint=1608[0603]
+Change Component Footprint: Designator=C66 Old Footprint=1206[3216] New Footprint=2012[0805]
+Change Component Footprint: Designator=C62 Old Footprint=1608[0603] New Footprint=2012[0805]
+Change Component Footprint: Designator=C64 Old Footprint=1608[0603] New Footprint=2012[0805]
+Change Component Comment : Designator=C64 Old Comment=Cap,0.1uF/0603 New Comment=Cap,1uF/0805
+Change Component Comment : Designator=C62 Old Comment=Cap,0.1uF/0603 New Comment=Cap,1uF/0805
+Change Component Comment : Designator=C65 Old Comment=Cap Pol,10uF/25V,1206 New Comment=Cap,0.1uF/0603
+Change Component Comment : Designator=C66 Old Comment=Cap Pol,10uF/25V,1206 New Comment=Cap,1uF/0805
+Added Component: Designator=C162(1608[0603])
+Added Pin To Net: NetName=A_LCD Pin=C162-1
+Added Pin To Net: NetName=GND Pin=C162-2
+Added Member To Class: ClassName=SH08-PWR1 Member=Component C162 Cap,0.1uF/0603

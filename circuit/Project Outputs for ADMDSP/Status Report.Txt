@@ -1,0 +1,10 @@
+Output: Protel2 Netlist
+Type  : Protel2Netlist
+From  : Project [ADMDSP.PrjPCB]
+   Generated File[ADMDSP.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:58:16 On 2013-3-14

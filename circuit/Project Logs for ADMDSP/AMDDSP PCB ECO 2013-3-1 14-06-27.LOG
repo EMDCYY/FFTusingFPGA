@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SDATA_A Pin=U1-140
+Removed Pin From Net: NetName=SDATA_B Pin=U1-142
+Added Pin To Net: NetName=SDATA_A Pin=U1-94
+Added Pin To Net: NetName=SDATA_B Pin=U1-98

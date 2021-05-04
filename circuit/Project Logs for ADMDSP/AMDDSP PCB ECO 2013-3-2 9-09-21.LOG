@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=CH0_4M Pin=U10-2
+Change Component Footprint: Designator=C18 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C19 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C20 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C21 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C22 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C23 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C24 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C25 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C26 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C27 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C28 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C29 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C30 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C31 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C32 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C33 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C34 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C35 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C36 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C37 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C38 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C39 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C40 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C41 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C42 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C43 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C44 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C45 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C46 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C47 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C48 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C49 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C50 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C51 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C52 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C53 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C54 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C55 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C56 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C57 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C58 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C59 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Change Component Footprint: Designator=C60 Old Footprint=1608[0603] New Footprint=1608[0603] - NoTopOverlay
+Added Pin To Net: NetName=CH2_4M Pin=U10-2
+Added Net: Name=CH2_4M

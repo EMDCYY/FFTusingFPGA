@@ -1,0 +1,4 @@
+Added Component: Designator=Y2(XTAL_DIP)
+Added Pin To Net: NetName=NetC48_1 Pin=Y2-1
+Added Pin To Net: NetName=NetC40_2 Pin=Y2-2
+Added Member To Class: ClassName=SH05-DDS Member=Component Y2 XTAL_25M

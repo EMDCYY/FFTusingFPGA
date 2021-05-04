@@ -1,0 +1,13966 @@
+PROTEL NETLIST 2.0
+[
+DESIGNATOR
+C1
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C2
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C3
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C4
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C5
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C6
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C7
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C8
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C9
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C10
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C11
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C12
+FOOTPRINT
+1210[3528]
+PARTTYPE
+Cap Pol,47uF/25V,1210
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,47uF/25V,1210
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1210[3528]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+47uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C13
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C14
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C15
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C16
+FOOTPRINT
+7343
+PARTTYPE
+Cap Pol,150uF/25V,7343
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,150uF/25V,7343
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+7343
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+150uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C17
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C18
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C19
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C20
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C21
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C22
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C23
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C24
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C25
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C26
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C27
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C28
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C29
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C30
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C31
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C32
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C33
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C34
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C35
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C36
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C37
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C38
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C39
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,680pF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,680pF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+680pF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C40
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,10pF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,10pF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+10pF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C41
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C42
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C43
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C44
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C45
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C46
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C47
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C48
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,10pF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,10pF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+10pF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C49
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,39.693pF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,39.693pF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+39.693pF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C50
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,63.662pF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,63.662pF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+63.662pF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C51
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,39.693pF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,39.693pF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+39.693pF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C52
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,39.693pF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,39.693pF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+39.693pF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C53
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,63.662pF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,63.662pF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+63.662pF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C54
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,39.693pF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,39.693pF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+39.693pF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C55
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,992.315pF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,992.315pF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+992.315pF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C56
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,1.592nF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,1.592nF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+1.592nF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C57
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,992.315pF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,992.315pF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+992.315pF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C58
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,992.315pF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,992.315pF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+992.315pF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C59
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,1.592nF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,1.592nF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+1.592nF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C60
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Cap,992.315pF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,992.315pF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+992.315pF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C61
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C62
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C63
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C64
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C65
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C66
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C67
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C68
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C69
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C70
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C71
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C72
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C73
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C74
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C75
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C76
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C77
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C78
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C79
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C80
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C81
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C82
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C83
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C84
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C85
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C86
+FOOTPRINT
+1210[3528]
+PARTTYPE
+Cap Pol,100uF/25V,1210
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,100uF/25V,1210
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1210[3528]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+100uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C87
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C88
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C90
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C91
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C92
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C93
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C94
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C95
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C96
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C97
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C98
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C99
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C100
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+C112
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C113
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C114
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C115
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C116
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C117
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C118
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C119
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C120
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C121
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C122
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C123
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C124
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C125
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C126
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C127
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C128
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C129
+FOOTPRINT
+1210[3528]
+PARTTYPE
+Cap Pol,100uF/25V,1210
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,100uF/25V,1210
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1210[3528]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+100uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C130
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C131
+FOOTPRINT
+1210[3528]
+PARTTYPE
+Cap Pol,100uF/25V,1210
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,100uF/25V,1210
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1210[3528]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+100uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C136
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C137
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C138
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C139
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C140
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C141
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C142
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C143
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C144
+FOOTPRINT
+1210[3528]
+PARTTYPE
+Cap Pol,100uF/25V,1210
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,100uF/25V,1210
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1210[3528]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+100uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C145
+FOOTPRINT
+1210[3528]
+PARTTYPE
+Cap Pol,22uF/25V,1210
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,22uF/25V,1210
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1210[3528]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+22uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C146
+FOOTPRINT
+1210[3528]
+PARTTYPE
+Cap Pol,100uF/25V,1210
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,100uF/25V,1210
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1210[3528]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+100uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C147
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C148
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C149
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C150
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C151
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C152
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C153
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C154
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C155
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C156
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C157
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C158
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C159
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C160
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C161
+FOOTPRINT
+1210[3528]
+PARTTYPE
+Cap Pol,100uF/25V,1210
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,100uF/25V,1210
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1210[3528]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+100uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C162
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C163
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C164
+FOOTPRINT
+2012[0805]
+PARTTYPE
+Cap,1uF/0805
+DESCRIPTION
+Capacitor
+Comment
+Cap,1uF/0805
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+2012[0805]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C165
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,0.1uF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,0.1uF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+0.1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C166
+FOOTPRINT
+2012[0805]
+PARTTYPE
+Cap,1uF/0805
+DESCRIPTION
+Capacitor
+Comment
+Cap,1uF/0805
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+2012[0805]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+1uF
+
+*
+
+*
+]
+[
+DESIGNATOR
+C167
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C168
+FOOTPRINT
+1206[3216]
+PARTTYPE
+Cap Pol,10uF/25V,1206
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,10uF/25V,1206
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1206[3216]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+10uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+C169
+FOOTPRINT
+1210[3528]
+PARTTYPE
+Cap Pol,100uF/25V,1210
+DESCRIPTION
+Polarized Capacitor (Radial)
+Comment
+Cap Pol,100uF/25V,1210
+Component Kind
+Standard
+Description
+Polarized Capacitor (Radial)
+Footprint
+1210[3528]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap Pol1
+PackageReference
+RB7.6-15
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap Pol
+Simulation
+CAP
+Value
+100uF/25V
+
+*
+
+*
+]
+[
+DESIGNATOR
+CF1
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,39PF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,39PF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+39PF
+
+*
+
+*
+]
+[
+DESIGNATOR
+CF2
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,39PF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,39PF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+39PF
+
+*
+
+*
+]
+[
+DESIGNATOR
+CF3
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,39PF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,39PF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+39PF
+
+*
+
+*
+]
+[
+DESIGNATOR
+CF4
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Cap,39PF/0603
+DESCRIPTION
+Capacitor
+Comment
+Cap,39PF/0603
+Component Kind
+Standard
+Description
+Capacitor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Cap
+PackageReference
+RAD-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Cap
+Simulation
+CAP
+Value
+39PF
+
+*
+
+*
+]
+[
+DESIGNATOR
+CH1
+FOOTPRINT
+SMB_V-RJ45
+PARTTYPE
+SMB
+DESCRIPTION
+SMB Straight Connector
+Comment
+SMB
+Component Kind
+Standard
+Description
+SMB Straight Connector
+Footprint
+SMB_V-RJ45
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+SMB
+PCB3D
+
+Publisher
+Altium Limited
+Signal Integrity
+Connector
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+CH2
+FOOTPRINT
+SMB_V-RJ45
+PARTTYPE
+SMB
+DESCRIPTION
+SMB Straight Connector
+Comment
+SMB
+Component Kind
+Standard
+Description
+SMB Straight Connector
+Footprint
+SMB_V-RJ45
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+SMB
+PCB3D
+
+Publisher
+Altium Limited
+Signal Integrity
+Connector
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+D1
+FOOTPRINT
+2012[0805] - LED
+PARTTYPE
+LED
+DESCRIPTION
+
+Comment
+LED
+Component Kind
+Standard
+Description
+
+Footprint
+2012[0805] - LED
+Library Name
+Mylibrary.SchLib
+Library Reference
+LED
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Text Field1
+40
+Text Field2
+20
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+D2
+FOOTPRINT
+SMBJ10A_DIOM4336X24N
+PARTTYPE
+P6SMBJ10A
+DESCRIPTION
+Schottky Rectifier
+Code_JEDEC
+DO-204-AL
+Comment
+P6SMBJ10A
+Component Kind
+Standard
+ComponentLink1Description
+Manufacturer Link
+ComponentLink1URL
+http://www.irf.com/
+ComponentLink2Description
+Datasheet
+ComponentLink2URL
+http://www.irf.com/product-info/datasheets/data/11dq03.pdf
+DatasheetDocument
+Dec-1997
+Description
+Schottky Rectifier
+Footprint
+SMBJ10A_DIOM4336X24N
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Diode 11DQ03
+PackageReference
+DO-204AL
+PCB3D
+
+
+*
+]
+[
+DESIGNATOR
+J1
+FOOTPRINT
+DSUB1.385-2H9
+PARTTYPE
+D Connector 9
+DESCRIPTION
+Receptacle Assembly, 9 Position, Right Angle
+Comment
+D Connector 9
+Component Kind
+Standard
+DatasheetDocument
+1-Sep-1999
+Description
+Receptacle Assembly, 9 Position, Right Angle
+Footprint
+DSUB1.385-2H9
+Gender
+Receptacle
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+D Connector 9
+Orientation
+Right Angle
+PackageDocument
+O
+PackageReference
+788750
+PCB3D
+
+Positions
+9
+Published
+15-Jun-2001
+
+*
+]
+[
+DESIGNATOR
+J2
+FOOTPRINT
+IF_KLD-0202
+PARTTYPE
+5V INPUT
+DESCRIPTION
+Low Voltage Power Supply Connector
+Comment
+5V INPUT
+Component Kind
+Standard
+ComponentLink1Description
+Manufacturer Link
+ComponentLink1URL
+http://domino.kycon.com/internet/Products.html
+DatasheetDocument
+09-May-2002
+Description
+Low Voltage Power Supply Connector
+Footprint
+IF_KLD-0202
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+PWR2.5
+PCB3D
+
+Published
+17-Dec-2003
+Publisher
+Altium Limited
+Signal Integrity
+Connector
+Simulation
+
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+L1
+FOOTPRINT
+2012[0805] - NoTopOverlay
+PARTTYPE
+Inductor,L0805,35.415nH
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor,L0805,35.415nH
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+2012[0805] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Inductor
+Simulation
+INDUCTOR
+
+*
+]
+[
+DESIGNATOR
+L2
+FOOTPRINT
+2012[0805] - NoTopOverlay
+PARTTYPE
+Inductor,L0805,143.394nH
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor,L0805,143.394nH
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+2012[0805] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Inductor
+Simulation
+INDUCTOR
+
+*
+]
+[
+DESIGNATOR
+L3
+FOOTPRINT
+2012[0805] - NoTopOverlay
+PARTTYPE
+Inductor,L0805,143.394nH
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor,L0805,143.394nH
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+2012[0805] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Inductor
+Simulation
+INDUCTOR
+
+*
+]
+[
+DESIGNATOR
+L4
+FOOTPRINT
+2012[0805] - NoTopOverlay
+PARTTYPE
+Inductor,L0805,35.415nH
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor,L0805,35.415nH
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+2012[0805] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Inductor
+Simulation
+INDUCTOR
+
+*
+]
+[
+DESIGNATOR
+L5
+FOOTPRINT
+2012[0805] - NoTopOverlay
+PARTTYPE
+Inductor,L0805,35.415nH
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor,L0805,35.415nH
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+2012[0805] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Inductor
+Simulation
+INDUCTOR
+
+*
+]
+[
+DESIGNATOR
+L6
+FOOTPRINT
+2012[0805] - NoTopOverlay
+PARTTYPE
+Inductor,L0805,143.394nH
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor,L0805,143.394nH
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+2012[0805] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Inductor
+Simulation
+INDUCTOR
+
+*
+]
+[
+DESIGNATOR
+L7
+FOOTPRINT
+2012[0805] - NoTopOverlay
+PARTTYPE
+Inductor,L0805,143.394nH
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor,L0805,143.394nH
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+2012[0805] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Inductor
+Simulation
+INDUCTOR
+
+*
+]
+[
+DESIGNATOR
+L8
+FOOTPRINT
+2012[0805] - NoTopOverlay
+PARTTYPE
+Inductor,L0805,35.415nH
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor,L0805,35.415nH
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+2012[0805] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Inductor
+Simulation
+INDUCTOR
+
+*
+]
+[
+DESIGNATOR
+L9
+FOOTPRINT
+2012[0805] - NoTopOverlay
+PARTTYPE
+Inductor,L0805,885.383nH
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor,L0805,885.383nH
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+2012[0805] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Inductor
+Simulation
+INDUCTOR
+
+*
+]
+[
+DESIGNATOR
+L10
+FOOTPRINT
+2012[0805] - NoTopOverlay
+PARTTYPE
+Inductor,L0805,3.585uH
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor,L0805,3.585uH
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+2012[0805] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Inductor
+Simulation
+INDUCTOR
+
+*
+]
+[
+DESIGNATOR
+L11
+FOOTPRINT
+2012[0805] - NoTopOverlay
+PARTTYPE
+Inductor,L0805,3.585uH
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor,L0805,3.585uH
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+2012[0805] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Inductor
+Simulation
+INDUCTOR
+
+*
+]
+[
+DESIGNATOR
+L12
+FOOTPRINT
+2012[0805] - NoTopOverlay
+PARTTYPE
+Inductor,L0805,885.383nH
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor,L0805,885.383nH
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+2012[0805] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Inductor
+Simulation
+INDUCTOR
+
+*
+]
+[
+DESIGNATOR
+L13
+FOOTPRINT
+2012[0805] - NoTopOverlay
+PARTTYPE
+Inductor,L0805,885.383nH
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor,L0805,885.383nH
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+2012[0805] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Inductor
+Simulation
+INDUCTOR
+
+*
+]
+[
+DESIGNATOR
+L14
+FOOTPRINT
+2012[0805] - NoTopOverlay
+PARTTYPE
+Inductor,L0805,3.585uH
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor,L0805,3.585uH
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+2012[0805] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Inductor
+Simulation
+INDUCTOR
+
+*
+]
+[
+DESIGNATOR
+L15
+FOOTPRINT
+2012[0805] - NoTopOverlay
+PARTTYPE
+Inductor,L0805,3.585uH
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor,L0805,3.585uH
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+2012[0805] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Inductor
+Simulation
+INDUCTOR
+
+*
+]
+[
+DESIGNATOR
+L16
+FOOTPRINT
+2012[0805] - NoTopOverlay
+PARTTYPE
+Inductor,L0805,885.383nH
+DESCRIPTION
+Inductor
+Code_IEC
+1005
+Code_JEITA
+0402
+Comment
+Inductor,L0805,885.383nH
+Component Kind
+Standard
+Description
+Inductor
+Footprint
+2012[0805] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Inductor
+PackageReference
+0402-A
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Inductor
+Simulation
+INDUCTOR
+
+*
+]
+[
+DESIGNATOR
+P1
+FOOTPRINT
+HDR1X3
+PARTTYPE
+Header 3
+DESCRIPTION
+Header, 3-Pin
+Comment
+Header 3
+Component Kind
+Standard
+Description
+Header, 3-Pin
+Footprint
+HDR1X3
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+Header 3
+PCB3D
+
+Publisher
+Altium Limited
+Signal Integrity
+Connector
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+P2
+FOOTPRINT
+10Pin - JTAG
+PARTTYPE
+牛角头 5X2
+DESCRIPTION
+Header, 5-Pin, Dual row
+Comment
+牛角头 5X2
+Component Kind
+Standard
+Description
+Header, 5-Pin, Dual row
+Footprint
+10Pin - JTAG
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+Header 5X2
+PCB3D
+
+Publisher
+Altium Limited
+Signal Integrity
+Connector
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+P3
+FOOTPRINT
+8PIN
+PARTTYPE
+绿色端子 8PIN,3.5mm间距
+DESCRIPTION
+Header, 8-Pin
+Comment
+绿色端子 8PIN,3.5mm间距
+Component Kind
+Standard
+Description
+Header, 8-Pin
+Footprint
+8PIN
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+Header 8
+PCB3D
+
+Publisher
+Altium Limited
+Signal Integrity
+Connector
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+P4
+FOOTPRINT
+HDR1X5
+PARTTYPE
+Header 5
+DESCRIPTION
+Header, 5-Pin
+Comment
+Header 5
+Component Kind
+Standard
+Description
+Header, 5-Pin
+Footprint
+HDR1X5
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+Header 5
+PCB3D
+
+Publisher
+Altium Limited
+Signal Integrity
+Connector
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+P5
+FOOTPRINT
+HDR1X16
+PARTTYPE
+Header 16
+DESCRIPTION
+Header, 16-Pin
+Comment
+Header 16
+Component Kind
+Standard
+Description
+Header, 16-Pin
+Footprint
+HDR1X16
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+Header 16
+PCB3D
+
+Publisher
+Altium Limited
+Signal Integrity
+Connector
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+R1
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,4.7K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,4.7K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+4.7K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R2
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,2.2R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,2.2R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+2.2R
+
+*
+
+*
+]
+[
+DESIGNATOR
+R3
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,2.2R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,2.2R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+2.2R
+
+*
+
+*
+]
+[
+DESIGNATOR
+R4
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,4.7K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,4.7K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+4.7K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R5
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R6
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R7
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,4.7K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,4.7K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+4.7K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R8
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,1K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,1K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+1K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R9
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,1K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,1K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+1K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R10
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,1K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,1K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+1K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R11
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,1K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,1K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+1K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R12
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R13
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R14
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R15
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,0R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,0R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+0
+
+*
+
+*
+]
+[
+DESIGNATOR
+R16
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R17
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R18
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,0R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,0R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+0
+
+*
+
+*
+]
+[
+DESIGNATOR
+R19
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R20
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R21
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,50R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,50R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+50R
+
+*
+
+*
+]
+[
+DESIGNATOR
+R22
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,50R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,50R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+50R
+
+*
+
+*
+]
+[
+DESIGNATOR
+R23
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,50R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,50R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+50R
+
+*
+
+*
+]
+[
+DESIGNATOR
+R24
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,50R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,50R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+50R
+
+*
+
+*
+]
+[
+DESIGNATOR
+R25
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,50R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,50R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+50R
+
+*
+
+*
+]
+[
+DESIGNATOR
+R26
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,50R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,50R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+50R
+
+*
+
+*
+]
+[
+DESIGNATOR
+R27
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,50R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,50R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+50R
+
+*
+
+*
+]
+[
+DESIGNATOR
+R28
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,50R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,50R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+50R
+
+*
+
+*
+]
+[
+DESIGNATOR
+R29
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,0R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,0R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+0R
+
+*
+
+*
+]
+[
+DESIGNATOR
+R30
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,910R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,910R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+910R
+
+*
+
+*
+]
+[
+DESIGNATOR
+R31
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,1K/0805
+DESCRIPTION
+Resistor
+Comment
+Res,1K/0805
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+1K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R32
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,49R9/0603
+DESCRIPTION
+Resistor
+Comment
+Res,49R9/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+49R9-NO POP
+
+*
+
+*
+]
+[
+DESIGNATOR
+R33
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,49R9/0603
+DESCRIPTION
+Resistor
+Comment
+Res,49R9/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+49R9-NO POP
+
+*
+
+*
+]
+[
+DESIGNATOR
+R34
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,4.7K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,4.7K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+4.7K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R35
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,4.7K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,4.7K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+4.7K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R36
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,4.7K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,4.7K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+4.7K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R37
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,0R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,0R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+0
+
+*
+
+*
+]
+[
+DESIGNATOR
+R38
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,0R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,0R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+0
+
+*
+
+*
+]
+[
+DESIGNATOR
+R39
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,0R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,0R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+0
+
+*
+
+*
+]
+[
+DESIGNATOR
+R40
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,0R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,0R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+0
+
+*
+
+*
+]
+[
+DESIGNATOR
+R41
+FOOTPRINT
+RES-adj
+PARTTYPE
+Res Adj,20K
+DESCRIPTION
+Tapped Resistor
+Comment
+Res Adj,20K
+Component Kind
+Standard
+Description
+Tapped Resistor
+Footprint
+RES-adj
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res Tap
+PackageReference
+VR3
+PCB3D
+
+Published
+24-Mar-1999
+Publisher
+Altium Limited
+Set Position
+0.5
+Signal Integrity
+Res Tap
+Sim Note
+Enter the Resistance value and the set point into parameter fields.
+Simulation
+POT
+
+*
+]
+[
+DESIGNATOR
+R42
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R43
+FOOTPRINT
+2012[0805]
+PARTTYPE
+Res,0R/0805
+DESCRIPTION
+Resistor
+Comment
+Res,0R/0805
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+2012[0805]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+0R
+
+*
+
+*
+]
+[
+DESIGNATOR
+R44
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,49R9/0603
+DESCRIPTION
+Resistor
+Comment
+Res,49R9/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+49R9
+
+*
+
+*
+]
+[
+DESIGNATOR
+R45
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,49R9/0603
+DESCRIPTION
+Resistor
+Comment
+Res,49R9/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+49R9
+
+*
+
+*
+]
+[
+DESIGNATOR
+R46
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R47
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R48
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R49
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R50
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R51
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R52
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603,NoPoP
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603,NoPoP
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R53
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,10K/0603,NoPoP
+DESCRIPTION
+Resistor
+Comment
+Res,10K/0603,NoPoP
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+10K
+
+*
+
+*
+]
+[
+DESIGNATOR
+R54
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,0R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,0R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+0R
+
+*
+
+*
+]
+[
+DESIGNATOR
+R55
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,0R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,0R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+0R
+
+*
+
+*
+]
+[
+DESIGNATOR
+R56
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,0R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,0R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+0R
+
+*
+
+*
+]
+[
+DESIGNATOR
+R57
+FOOTPRINT
+1608[0603] - NoTopOverlay
+PARTTYPE
+Res,0R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,0R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603] - NoTopOverlay
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+0R
+
+*
+
+*
+]
+[
+DESIGNATOR
+RF1
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,499R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,499R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+499R
+
+*
+
+*
+]
+[
+DESIGNATOR
+RF2
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,499R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,499R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+499R
+
+*
+
+*
+]
+[
+DESIGNATOR
+RF3
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,499R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,499R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+499R
+
+*
+
+*
+]
+[
+DESIGNATOR
+RF4
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,499R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,499R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+499R
+
+*
+
+*
+]
+[
+DESIGNATOR
+RG1
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,499R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,499R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+499R
+
+*
+
+*
+]
+[
+DESIGNATOR
+RG3
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,523R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,523R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+523R
+
+*
+
+*
+]
+[
+DESIGNATOR
+RG4
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,499R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,499R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+499R
+
+*
+
+*
+]
+[
+DESIGNATOR
+RG6
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,523R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,523R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+523R
+
+*
+
+*
+]
+[
+DESIGNATOR
+RS1
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,33R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,33R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+33R
+
+*
+
+*
+]
+[
+DESIGNATOR
+RS2
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,33R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,33R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+33R
+
+*
+
+*
+]
+[
+DESIGNATOR
+RS3
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,33R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,33R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+33R
+
+*
+
+*
+]
+[
+DESIGNATOR
+RS4
+FOOTPRINT
+1608[0603]
+PARTTYPE
+Res,33R/0603
+DESCRIPTION
+Resistor
+Comment
+Res,33R/0603
+Component Kind
+Standard
+Description
+Resistor
+Footprint
+1608[0603]
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+Res1
+PackageReference
+AXIAL-0.3
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+Res
+Simulation
+RESISTOR
+Value
+33R
+
+*
+
+*
+]
+[
+DESIGNATOR
+SW1
+FOOTPRINT
+PUSHBUTTONSW
+PARTTYPE
+SW,EVQPLMA15_1
+DESCRIPTION
+
+Comment
+SW,EVQPLMA15_1
+Component Kind
+Standard
+Description
+
+Footprint
+PUSHBUTTONSW
+Library Name
+Laser-LiuXin.SchLib
+Library Reference
+PUSHBUTTON SW
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+SW2
+FOOTPRINT
+SW_SD12D09
+PARTTYPE
+SW-12D09
+DESCRIPTION
+Single-Pole, Single-Throw Switch
+Comment
+SW-12D09
+Component Kind
+Standard
+Description
+Single-Pole, Single-Throw Switch
+Footprint
+SW_SD12D09
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+SW-SPST
+PackageReference
+SPST-2
+PCB3D
+
+Published
+24-Mar-1999
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+TP_1
+FOOTPRINT
+MYTP
+PARTTYPE
+TP_DDS_SYNC_CLK
+DESCRIPTION
+
+Bottom
+20
+Comment
+TP_DDS_SYNC_CLK
+Component Kind
+Standard
+Description
+
+Footprint
+MYTP
+Library Name
+
+Library Reference
+TEST POINT_0
+PCB3D
+
+Right
+10
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+TP_2
+FOOTPRINT
+MYTP
+PARTTYPE
+5V
+DESCRIPTION
+
+Bottom
+20
+Comment
+5V
+Component Kind
+Standard
+Description
+
+Footprint
+MYTP
+Library Name
+
+Library Reference
+TEST POINT_0
+PCB3D
+
+Right
+10
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+TP_3
+FOOTPRINT
+MYTP
+PARTTYPE
+3V3
+DESCRIPTION
+
+Bottom
+20
+Comment
+3V3
+Component Kind
+Standard
+Description
+
+Footprint
+MYTP
+Library Name
+
+Library Reference
+TEST POINT_0
+PCB3D
+
+Right
+10
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+TP_4
+FOOTPRINT
+MYTP
+PARTTYPE
+2V5
+DESCRIPTION
+
+Bottom
+20
+Comment
+2V5
+Component Kind
+Standard
+Description
+
+Footprint
+MYTP
+Library Name
+
+Library Reference
+TEST POINT_0
+PCB3D
+
+Right
+10
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+TP_6
+FOOTPRINT
+MYTP
+PARTTYPE
+REFA
+DESCRIPTION
+
+Bottom
+20
+Comment
+REFA
+Component Kind
+Standard
+Description
+
+Footprint
+MYTP
+Library Name
+
+Library Reference
+TEST POINT_0
+PCB3D
+
+Right
+10
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+TP_7
+FOOTPRINT
+MYTP
+PARTTYPE
+REFB
+DESCRIPTION
+
+Bottom
+20
+Comment
+REFB
+Component Kind
+Standard
+Description
+
+Footprint
+MYTP
+Library Name
+
+Library Reference
+TEST POINT_0
+PCB3D
+
+Right
+10
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+TP_8
+FOOTPRINT
+MYTP
+PARTTYPE
+2V5
+DESCRIPTION
+
+Bottom
+20
+Comment
+2V5
+Component Kind
+Standard
+Description
+
+Footprint
+MYTP
+Library Name
+
+Library Reference
+TEST POINT_0
+PCB3D
+
+Right
+10
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+TP_9
+FOOTPRINT
+MYTP
+PARTTYPE
+1V8
+DESCRIPTION
+
+Bottom
+20
+Comment
+1V8
+Component Kind
+Standard
+Description
+
+Footprint
+MYTP
+Library Name
+
+Library Reference
+TEST POINT_0
+PCB3D
+
+Right
+10
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U1
+FOOTPRINT
+PQG208_N
+PARTTYPE
+XC3S500E-4PQG208C
+DESCRIPTION
+Spartan-3E 1.2V FPGA, 158 User I/Os, 208-Pin Pb-Free PQFP, Standard Performance, Commercial Grade
+Code_JEDEC
+MS-029-FA-1
+Comment
+XC3S500E-4PQG208C
+Component Kind
+Standard
+ComponentLink1Description
+Manufacturer Link
+ComponentLink1URL
+http://www.xilinx.com/products/silicon_solutions/fpgas/spartan_series/spartan3e_fpgas/index.htm
+ComponentLink2Description
+Datasheet
+ComponentLink2URL
+http://direct.xilinx.com/bvdocs/publications/ds312.pdf
+DatasheetVersion
+16-Mar-2007
+Description
+Spartan-3E 1.2V FPGA, 158 User I/Os, 208-Pin Pb-Free PQFP, Standard Performance, Commercial Grade
+Footprint
+PQG208_N
+LatestRevisionDate
+13-Apr-2006
+LatestRevisionNote
+IPC-7351 Footprint Added.
+Library Name
+Xilinx Spartan-3E.IntLib
+Library Reference
+XC3S500E-4PQG208C
+PackageDescription
+208-Pin Plastic Quad Flat Pack (PQG208) - Pb-Free
+PackageReference
+PQG208
+
+*
+]
+[
+DESIGNATOR
+U2
+FOOTPRINT
+SOIC127P600X175-8N
+PARTTYPE
+M25P80
+DESCRIPTION
+
+Comment
+M25P80
+Component Kind
+Standard
+Description
+
+Footprint
+SOIC127P600X175-8N
+Library Name
+FPGA_DSP_schlib.SchLib
+Library Reference
+M25P80
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U3
+FOOTPRINT
+NSO16
+PARTTYPE
+MAX3232CSE
+DESCRIPTION
+
+Comment
+MAX3232CSE
+Component Kind
+Standard
+Description
+
+Footprint
+NSO16
+Library Name
+Laser-LiuXin.SchLib
+Library Reference
+MAX3232
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+Text Field1
+60
+Text Field2
+150
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U4
+FOOTPRINT
+SOT143
+PARTTYPE
+MAX811-EUS-T
+DESCRIPTION
+
+Comment
+MAX811-EUS-T
+Component Kind
+Standard
+Description
+
+Footprint
+SOT143
+Library Name
+Laser-LiuXin.SchLib
+Library Reference
+MAX811
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U5
+FOOTPRINT
+SOIC127P600X175-8N
+PARTTYPE
+AD8138
+DESCRIPTION
+Low Distortion  Differential ADC Driver
+Comment
+AD8138
+Component Kind
+Standard
+ComponentLink1Description
+Manufacturer Link
+ComponentLink1URL
+http://www.analog.com/en/prod/0%2C2877%2CAD626%2C00.html
+ComponentLink2Description
+Datasheet
+ComponentLink2URL
+http://www.analog.com/UploadedFiles/Data_Sheets/441354443AD626_d.pdf
+DatasheetVersion
+REV.B 1998
+Description
+Low Distortion  Differential ADC Driver
+Footprint
+SOIC127P600X175-8N
+LatestRevisionDate
+04-Mar-2005
+LatestRevisionNote
+Stylized 3D Model Added.
+Library Name
+Laser-LiuXin.SchLib
+Library Reference
+AD8138
+Note
+Pin 2 is analog ground
+PackageDescription
+DIP; 8 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm
+PackageReference
+N-8
+
+*
+]
+[
+DESIGNATOR
+U6
+FOOTPRINT
+TSOP65P640X120-16N
+PARTTYPE
+AD7356
+DESCRIPTION
+Differential Input, Dual, Simultaneous  Sampling, 5 MSPS, 12-Bit, SAR ADC
+Comment
+AD7356
+Component Kind
+Standard
+Description
+Differential Input, Dual, Simultaneous  Sampling, 5 MSPS, 12-Bit, SAR ADC
+Footprint
+TSOP65P640X120-16N
+Library Name
+Laser-LiuXin.SchLib
+Library Reference
+AD7356
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U7
+FOOTPRINT
+SOIC127P600X175-8N
+PARTTYPE
+OP727
+DESCRIPTION
+Precision Micropower  Single-Supply Operational Amplifiers
+Comment
+OP727
+Component Kind
+Standard
+ComponentLink1Description
+Manufacturer Link
+ComponentLink1URL
+http://www.analog.com/
+DatasheetVersion
+1992
+Description
+Precision Micropower  Single-Supply Operational Amplifiers
+Footprint
+SOIC127P600X175-8N
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Laser-LiuXin.SchLib
+Library Reference
+AMP_OP727
+PackageDescription
+Can; 12 Leads; 10.16 mm Square Array; Lead Dia. 0.53 mm (max)
+PackageReference
+H-12A
+PackageVersion
+revC, 1990
+PCB3D
+
+Published
+8-Jun-2000
+
+*
+]
+[
+DESIGNATOR
+U8
+FOOTPRINT
+SOIC127P600X175-8N
+PARTTYPE
+AD8138
+DESCRIPTION
+Low Distortion  Differential ADC Driver
+Comment
+AD8138
+Component Kind
+Standard
+ComponentLink1Description
+Manufacturer Link
+ComponentLink1URL
+http://www.analog.com/en/prod/0%2C2877%2CAD626%2C00.html
+ComponentLink2Description
+Datasheet
+ComponentLink2URL
+http://www.analog.com/UploadedFiles/Data_Sheets/441354443AD626_d.pdf
+DatasheetVersion
+REV.B 1998
+Description
+Low Distortion  Differential ADC Driver
+Footprint
+SOIC127P600X175-8N
+LatestRevisionDate
+04-Mar-2005
+LatestRevisionNote
+Stylized 3D Model Added.
+Library Name
+Laser-LiuXin.SchLib
+Library Reference
+AD8138
+Note
+Pin 2 is analog ground
+PackageDescription
+DIP; 8 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm
+PackageReference
+N-8
+
+*
+]
+[
+DESIGNATOR
+U9
+FOOTPRINT
+CP-56
+PARTTYPE
+AD9959
+DESCRIPTION
+
+Comment
+AD9959
+Component Kind
+Standard
+Description
+
+Footprint
+CP-56
+Library Name
+Laser-LiuXin.SchLib
+Library Reference
+DDS_AD9959
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U10
+FOOTPRINT
+SOT23D
+PARTTYPE
+SW_ADG619
+DESCRIPTION
+Single SPDT Switches
+Comment
+SW_ADG619
+Component Kind
+Standard
+Description
+Single SPDT Switches
+Footprint
+SOT23D
+Library Name
+Laser-LiuXin.SchLib
+Library Reference
+SW_ADG619
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U11
+FOOTPRINT
+SOT23D
+PARTTYPE
+SW_ADG619
+DESCRIPTION
+Single SPDT Switches
+Comment
+SW_ADG619
+Component Kind
+Standard
+Description
+Single SPDT Switches
+Footprint
+SOT23D
+Library Name
+Laser-LiuXin.SchLib
+Library Reference
+SW_ADG619
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U12
+FOOTPRINT
+TSSOP50P810X120-48N
+PARTTYPE
+BUS_74LVCH16T245-EP
+DESCRIPTION
+
+Comment
+BUS_74LVCH16T245-EP
+Component Kind
+Standard
+Description
+
+Footprint
+TSSOP50P810X120-48N
+Library Name
+Laser-LiuXin.SchLib
+Library Reference
+BUS_74LVCH16T245-EP
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U13
+FOOTPRINT
+TO-263-3SMD
+PARTTYPE
+LM1117S-3.3
+DESCRIPTION
+
+Comment
+LM1117S-3.3
+Component Kind
+Standard
+Description
+
+Footprint
+TO-263-3SMD
+Library Name
+Laser-LiuXin.SchLib
+Library Reference
+PWR_LM1117S-3.3
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U14
+FOOTPRINT
+SOT223P700X180-4N
+PARTTYPE
+AS1117-2.5
+DESCRIPTION
+
+Comment
+AS1117-2.5
+Component Kind
+Standard
+Description
+
+Footprint
+SOT223P700X180-4N
+Library Name
+Mylibrary.SchLib
+Library Reference
+VOLTREG
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U15
+FOOTPRINT
+SOT-223(FAN1112)
+PARTTYPE
+FAN1112
+DESCRIPTION
+
+Comment
+FAN1112
+Component Kind
+Standard
+Description
+
+Footprint
+SOT-223(FAN1112)
+Library Name
+PCB_Project_FPGA_aquisition.SCHLIB
+Library Reference
+FAN1112
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U16
+FOOTPRINT
+SOIC127P600X175-8N
+PARTTYPE
+ADR421
+DESCRIPTION
+Ultraprecision Low Noise, 2.048 V/2.500 V/  3.00 V/5.00 V XFET? Voltage References
+Comment
+ADR421
+Component Kind
+Standard
+Description
+Ultraprecision Low Noise, 2.048 V/2.500 V/  3.00 V/5.00 V XFET? Voltage References
+Footprint
+SOIC127P600X175-8N
+Library Name
+Laser-LiuXin.SchLib
+Library Reference
+PWR_ADR421
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U17
+FOOTPRINT
+SOIC127P600X175-8N
+PARTTYPE
+ADR421
+DESCRIPTION
+Ultraprecision Low Noise, 2.048 V/2.500 V/  3.00 V/5.00 V XFET? Voltage References
+Comment
+ADR421
+Component Kind
+Standard
+Description
+Ultraprecision Low Noise, 2.048 V/2.500 V/  3.00 V/5.00 V XFET? Voltage References
+Footprint
+SOIC127P600X175-8N
+Library Name
+Laser-LiuXin.SchLib
+Library Reference
+PWR_ADR421
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U18
+FOOTPRINT
+SOT223P700X180-4N
+PARTTYPE
+LM1117-2V5
+DESCRIPTION
+
+Comment
+LM1117-2V5
+Component Kind
+Standard
+Description
+
+Footprint
+SOT223P700X180-4N
+Library Name
+Mylibrary.SchLib
+Library Reference
+VOLTREG
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+U19
+FOOTPRINT
+SOT223P700X180-4N
+PARTTYPE
+LM1117-1V8
+DESCRIPTION
+
+Comment
+LM1117-1V8
+Component Kind
+Standard
+Description
+
+Footprint
+SOT223P700X180-4N
+Library Name
+Mylibrary.SchLib
+Library Reference
+VOLTREG
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+V1
+FOOTPRINT
+SMB_V-RJ45
+PARTTYPE
+SMB
+DESCRIPTION
+SMB Straight Connector
+Comment
+SMB
+Component Kind
+Standard
+Description
+SMB Straight Connector
+Footprint
+SMB_V-RJ45
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+SMB
+PCB3D
+
+Publisher
+Altium Limited
+Signal Integrity
+Connector
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+V2
+FOOTPRINT
+SMB_V-RJ45
+PARTTYPE
+SMB
+DESCRIPTION
+SMB Straight Connector
+Comment
+SMB
+Component Kind
+Standard
+Description
+SMB Straight Connector
+Footprint
+SMB_V-RJ45
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Connectors.IntLib
+Library Reference
+SMB
+PCB3D
+
+Publisher
+Altium Limited
+Signal Integrity
+Connector
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Y1
+FOOTPRINT
+CRY_4Pin_50M
+PARTTYPE
+XTAL_50M
+DESCRIPTION
+
+Comment
+XTAL_50M
+Component Kind
+Standard
+Description
+
+Footprint
+CRY_4Pin_50M
+Library Name
+Laser-LiuXin.SchLib
+Library Reference
+XTAL
+PCB3D
+
+Signal Integrity
+
+Simulation
+
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+]
+[
+DESIGNATOR
+Y2
+FOOTPRINT
+XTAL_DIP
+PARTTYPE
+XTAL_25M
+DESCRIPTION
+Crystal Oscillator
+Comment
+XTAL_25M
+Component Kind
+Standard
+Description
+Crystal Oscillator
+Footprint
+XTAL_DIP
+LatestRevisionDate
+17-Jul-2002
+LatestRevisionNote
+Re-released for DXP Platform.
+Library Name
+Miscellaneous Devices.IntLib
+Library Reference
+XTAL
+PackageReference
+R38
+PCB3D
+
+Published
+8-Jun-2000
+Publisher
+Altium Limited
+Signal Integrity
+
+Simulation
+XTAL
+
+*
+
+*
+
+*
+]
+(
+NetTP_6_1
+TP_6-1 REFA-TP Passive      
+U16-8 ADR421-TP Passive      
+)
+(
+NetTP_7_1
+TP_7-1 REFB-TP Passive      
+U17-8 ADR421-TP Passive      
+)
+(
+NetD1_2
+D1-2 LED-2 Passive      
+R42-2 Res,10K/0603-2 Passive      
+)
+(
+NetJ2_1
+J2-1 5V INPUT-1 Power        
+J2-1A 5V INPUT-1A Power        
+J2-1B 5V INPUT-1B Power        
+SW2-1 SW-12D09-COMMON Passive      
+)
+(
+2V5
+C112-1 Cap Pol,10uF/25V,1206-1 Passive      
+C113-2 Cap,0.1uF/0603-2 Passive      
+C114-2 Cap,0.1uF/0603-2 Passive      
+C115-2 Cap,0.1uF/0603-2 Passive      
+C116-2 Cap,0.1uF/0603-2 Passive      
+C117-2 Cap,0.1uF/0603-2 Passive      
+C118-2 Cap,0.1uF/0603-2 Passive      
+C119-2 Cap,0.1uF/0603-2 Passive      
+C120-2 Cap,0.1uF/0603-2 Passive      
+C121-2 Cap,0.1uF/0603-2 Passive      
+C122-2 Cap,0.1uF/0603-2 Passive      
+C123-2 Cap,0.1uF/0603-2 Passive      
+C124-2 Cap,0.1uF/0603-2 Passive      
+C125-2 Cap,0.1uF/0603-2 Passive      
+C126-2 Cap,0.1uF/0603-2 Passive      
+C127-2 Cap,0.1uF/0603-2 Passive      
+C128-2 Cap,0.1uF/0603-2 Passive      
+C130-1 Cap Pol,10uF/25V,1206-1 Passive      
+C131-1 Cap Pol,100uF/25V,1210-1 Passive      
+TP_4-1 2V5-TP Passive      
+U1-7 XC3S500E-4PQG208C-VCCAUX Power        
+U1-44 XC3S500E-4PQG208C-VCCAUX Power        
+U1-66 XC3S500E-4PQG208C-VCCAUX Power        
+U1-92 XC3S500E-4PQG208C-VCCAUX Power        
+U1-111 XC3S500E-4PQG208C-VCCAUX Power        
+U1-149 XC3S500E-4PQG208C-VCCAUX Power        
+U1-166 XC3S500E-4PQG208C-VCCAUX Power        
+U1-195 XC3S500E-4PQG208C-VCCAUX Power        
+U14-2 AS1117-2.5-Vout Passive      
+U14-4 AS1117-2.5-VOUT Passive      
+)
+(
+1V2
+C136-2 Cap,0.1uF/0603-2 Passive      
+C137-2 Cap,0.1uF/0603-2 Passive      
+C138-2 Cap,0.1uF/0603-2 Passive      
+C139-2 Cap,0.1uF/0603-2 Passive      
+C140-2 Cap,0.1uF/0603-2 Passive      
+C141-2 Cap,0.1uF/0603-2 Passive      
+C142-2 Cap,0.1uF/0603-2 Passive      
+C143-2 Cap,0.1uF/0603-2 Passive      
+C145-1 Cap Pol,22uF/25V,1210-1 Passive      
+C146-1 Cap Pol,100uF/25V,1210-1 Passive      
+U1-13 XC3S500E-4PQG208C-VCCINT Power        
+U1-67 XC3S500E-4PQG208C-VCCINT Power        
+U1-117 XC3S500E-4PQG208C-VCCINT Power        
+U1-170 XC3S500E-4PQG208C-VCCINT Power        
+U15-2 FAN1112-VOUT Passive      
+U15-4 FAN1112-4 Passive      
+)
+(
+VEE_LCD
+P5-3 Header 16-3 Passive      
+R41-3 Res Adj,20K-TAP Passive      
+)
+(
+RS_LCD
+P5-4 Header 16-4 Passive      
+U12-2 BUS_74LVCH16T245-EP-1B1 Passive      
+)
+(
+R/W_LCD
+P5-5 Header 16-5 Passive      
+U12-3 BUS_74LVCH16T245-EP-1B2 Passive      
+)
+(
+NU_5
+P4-5 Header 5-5 Passive      
+U12-23 BUS_74LVCH16T245-EP-2B8 Passive      
+)
+(
+NU_4
+P4-4 Header 5-4 Passive      
+U12-22 BUS_74LVCH16T245-EP-2B7 Passive      
+)
+(
+NU_3
+P4-3 Header 5-3 Passive      
+U12-20 BUS_74LVCH16T245-EP-2B6 Passive      
+)
+(
+NU_2
+P4-2 Header 5-2 Passive      
+U12-19 BUS_74LVCH16T245-EP-2B5 Passive      
+)
+(
+NU_1
+P4-1 Header 5-1 Passive      
+U12-17 BUS_74LVCH16T245-EP-2B4 Passive      
+)
+(
+NetR37_2
+R37-2 Res,0R/0603-2 Passive      
+U12-48 BUS_74LVCH16T245-EP-1O\E\ Passive      
+)
+(
+NetR38_2
+R38-2 Res,0R/0603-2 Passive      
+U12-1 BUS_74LVCH16T245-EP-1DIR Passive      
+)
+(
+NetR39_2
+R39-2 Res,0R/0603-2 Passive      
+U12-25 BUS_74LVCH16T245-EP-2O\E\ Passive      
+)
+(
+NetR40_2
+R40-2 Res,0R/0603-2 Passive      
+U12-24 BUS_74LVCH16T245-EP-2DIR Passive      
+)
+(
+E_LCD
+P5-6 Header 16-6 Passive      
+U12-5 BUS_74LVCH16T245-EP-1B3 Passive      
+)
+(
+DB7_LCD
+P5-14 Header 16-14 Passive      
+U12-16 BUS_74LVCH16T245-EP-2B3 Passive      
+)
+(
+DB6_LCD
+P5-13 Header 16-13 Passive      
+U12-14 BUS_74LVCH16T245-EP-2B2 Passive      
+)
+(
+DB5_LCD
+P5-12 Header 16-12 Passive      
+U12-13 BUS_74LVCH16T245-EP-2B1 Passive      
+)
+(
+DB4_LCD
+P5-11 Header 16-11 Passive      
+U12-12 BUS_74LVCH16T245-EP-1B8 Passive      
+)
+(
+DB3_LCD
+P5-10 Header 16-10 Passive      
+U12-11 BUS_74LVCH16T245-EP-1B7 Passive      
+)
+(
+DB2_LCD
+P5-9 Header 16-9 Passive      
+U12-9 BUS_74LVCH16T245-EP-1B6 Passive      
+)
+(
+DB1_LCD
+P5-8 Header 16-8 Passive      
+U12-8 BUS_74LVCH16T245-EP-1B5 Passive      
+)
+(
+DB0_LCD
+P5-7 Header 16-7 Passive      
+U12-6 BUS_74LVCH16T245-EP-1B4 Passive      
+)
+(
+REFOUT
+CH2-1 SMB-X Passive      
+R33-1 Res,49R9/0603-1 Passive      
+U11-1 SW_ADG619-D Passive      
+)
+(
+P3
+U1-197 XC3S500E-4PQG208C-IO_L13N_0 IO           
+U9-43 AD9959-P3 Input        
+)
+(
+P2
+U1-199 XC3S500E-4PQG208C-IO_L14P_0 IO           
+U9-42 AD9959-P2 Input        
+)
+(
+P1
+U1-200 XC3S500E-4PQG208C-IO_L14N_0/VREF_0 IO           
+U9-41 AD9959-P1 Input        
+)
+(
+P0
+U1-205 XC3S500E-4PQG208C-IO_L16P_0 IO           
+U9-40 AD9959-P0 Input        
+)
+(
+NetC39_2
+C39-2 Cap,680pF/0603-2 Passive      
+R29-1 Res,0R/0603-1 Passive      
+)
+(
+NetC40_2
+C40-2 Cap,10pF/0603-2 Passive      
+U9-22 AD9959-R\E\F\_\C\L\K\ Input        
+Y2-2 XTAL_25M-OSC2 Passive      
+)
+(
+NetC48_1
+C48-1 Cap,10pF/0603-1 Passive      
+U9-23 AD9959-REF_CLK Input        
+Y2-1 XTAL_25M-OSC1 Passive      
+)
+(
+NetC49_1
+C49-1 Cap,39.693pF/0603-1 Passive      
+L1-2 Inductor,L0805,35.415nH-2 Passive      
+L2-1 Inductor,L0805,143.394nH-1 Passive      
+)
+(
+NetC50_1
+C50-1 Cap,63.662pF/0603-1 Passive      
+L2-2 Inductor,L0805,143.394nH-2 Passive      
+L3-1 Inductor,L0805,143.394nH-1 Passive      
+)
+(
+NetC51_1
+C51-1 Cap,39.693pF/0603-1 Passive      
+L3-2 Inductor,L0805,143.394nH-2 Passive      
+L4-1 Inductor,L0805,35.415nH-1 Passive      
+)
+(
+NetC52_1
+C52-1 Cap,39.693pF/0603-1 Passive      
+L5-2 Inductor,L0805,35.415nH-2 Passive      
+L6-1 Inductor,L0805,143.394nH-1 Passive      
+)
+(
+NetC53_1
+C53-1 Cap,63.662pF/0603-1 Passive      
+L6-2 Inductor,L0805,143.394nH-2 Passive      
+L7-1 Inductor,L0805,143.394nH-1 Passive      
+)
+(
+NetC54_1
+C54-1 Cap,39.693pF/0603-1 Passive      
+L7-2 Inductor,L0805,143.394nH-2 Passive      
+L8-1 Inductor,L0805,35.415nH-1 Passive      
+)
+(
+NetC55_1
+C55-1 Cap,992.315pF/0603-1 Passive      
+L9-2 Inductor,L0805,885.383nH-2 Passive      
+L10-1 Inductor,L0805,3.585uH-1 Passive      
+)
+(
+NetC56_1
+C56-1 Cap,1.592nF/0603-1 Passive      
+L10-2 Inductor,L0805,3.585uH-2 Passive      
+L11-1 Inductor,L0805,3.585uH-1 Passive      
+)
+(
+NetC57_1
+C57-1 Cap,992.315pF/0603-1 Passive      
+L11-2 Inductor,L0805,3.585uH-2 Passive      
+L12-1 Inductor,L0805,885.383nH-1 Passive      
+)
+(
+NetC58_1
+C58-1 Cap,992.315pF/0603-1 Passive      
+L13-2 Inductor,L0805,885.383nH-2 Passive      
+L14-1 Inductor,L0805,3.585uH-1 Passive      
+)
+(
+NetC59_1
+C59-1 Cap,1.592nF/0603-1 Passive      
+L14-2 Inductor,L0805,3.585uH-2 Passive      
+L15-1 Inductor,L0805,3.585uH-1 Passive      
+)
+(
+NetC60_1
+C60-1 Cap,992.315pF/0603-1 Passive      
+L15-2 Inductor,L0805,3.585uH-2 Passive      
+L16-1 Inductor,L0805,885.383nH-1 Passive      
+)
+(
+NetR29_2
+R29-2 Res,0R/0603-2 Passive      
+U9-27 AD9959-LOOP_FLTER Passive      
+)
+(
+NetR30_1
+R30-1 Res,910R/0603-1 Passive      
+R31-2 Res,1K/0805-2 Passive      
+)
+(
+NetR31_1
+R31-1 Res,1K/0805-1 Passive      
+U9-17 AD9959-DAC_RSET Input        
+)
+(
+NetR54_1
+R54-1 Res,0R/0603-1 Passive      
+U1-30 XC3S500E-4PQG208C-IO_L10P_3/LHCLK6 IO           
+)
+(
+NetR55_1
+R55-1 Res,0R/0603-1 Passive      
+U1-28 XC3S500E-4PQG208C-IO_L09P_3/LHCLK4 IO           
+)
+(
+NetR56_1
+R56-1 Res,0R/0603-1 Passive      
+U1-18 XC3S500E-4PQG208C-IO_L06P_3 IO           
+)
+(
+NetR57_1
+R57-1 Res,0R/0603-1 Passive      
+U1-15 XC3S500E-4PQG208C-IO_L05P_3 IO           
+)
+(
+MESOUT
+CH1-1 SMB-X Passive      
+R32-1 Res,49R9/0603-1 Passive      
+U10-1 SW_ADG619-D Passive      
+)
+(
+GND
+C1-2 Cap,0.1uF/0603-2 Passive      
+C2-2 Cap,0.1uF/0603-2 Passive      
+C3-2 Cap,0.1uF/0603-2 Passive      
+C4-2 Cap Pol,10uF/25V,1206-2 Passive      
+C5-2 Cap,0.1uF/0603-2 Passive      
+C8-2 Cap,0.1uF/0603-2 Passive      
+C9-1 Cap,0.1uF/0603-1 Passive      
+C12-2 Cap Pol,47uF/25V,1210-2 Passive      
+C16-2 Cap Pol,150uF/25V,7343-2 Passive      
+C18-2 Cap,0.1uF/0603-2 Passive      
+C19-2 Cap,0.1uF/0603-2 Passive      
+C20-2 Cap,0.1uF/0603-2 Passive      
+C21-2 Cap,0.1uF/0603-2 Passive      
+C22-2 Cap,0.1uF/0603-2 Passive      
+C23-2 Cap,0.1uF/0603-2 Passive      
+C24-2 Cap,0.1uF/0603-2 Passive      
+C25-2 Cap,0.1uF/0603-2 Passive      
+C26-2 Cap,0.1uF/0603-2 Passive      
+C27-2 Cap,0.1uF/0603-2 Passive      
+C28-2 Cap,0.1uF/0603-2 Passive      
+C29-2 Cap,0.1uF/0603-2 Passive      
+C30-2 Cap,0.1uF/0603-2 Passive      
+C31-2 Cap,0.1uF/0603-2 Passive      
+C32-2 Cap,0.1uF/0603-2 Passive      
+C33-2 Cap,0.1uF/0603-2 Passive      
+C34-2 Cap,0.1uF/0603-2 Passive      
+C35-2 Cap,0.1uF/0603-2 Passive      
+C36-2 Cap,0.1uF/0603-2 Passive      
+C37-2 Cap,0.1uF/0603-2 Passive      
+C38-2 Cap,0.1uF/0603-2 Passive      
+C40-1 Cap,10pF/0603-1 Passive      
+C41-2 Cap,0.1uF/0603-2 Passive      
+C42-2 Cap,0.1uF/0603-2 Passive      
+C43-2 Cap,0.1uF/0603-2 Passive      
+C44-2 Cap,0.1uF/0603-2 Passive      
+C46-2 Cap,0.1uF/0603-2 Passive      
+C47-2 Cap,0.1uF/0603-2 Passive      
+C48-2 Cap,10pF/0603-2 Passive      
+C49-2 Cap,39.693pF/0603-2 Passive      
+C50-2 Cap,63.662pF/0603-2 Passive      
+C51-2 Cap,39.693pF/0603-2 Passive      
+C52-2 Cap,39.693pF/0603-2 Passive      
+C53-2 Cap,63.662pF/0603-2 Passive      
+C54-2 Cap,39.693pF/0603-2 Passive      
+C55-2 Cap,992.315pF/0603-2 Passive      
+C56-2 Cap,1.592nF/0603-2 Passive      
+C57-2 Cap,992.315pF/0603-2 Passive      
+C58-2 Cap,992.315pF/0603-2 Passive      
+C59-2 Cap,1.592nF/0603-2 Passive      
+C60-2 Cap,992.315pF/0603-2 Passive      
+C67-2 Cap Pol,10uF/25V,1206-2 Passive      
+C68-1 Cap,0.1uF/0603-1 Passive      
+C69-1 Cap,0.1uF/0603-1 Passive      
+C70-1 Cap,0.1uF/0603-1 Passive      
+C71-1 Cap,0.1uF/0603-1 Passive      
+C72-2 Cap Pol,10uF/25V,1206-2 Passive      
+C73-2 Cap Pol,10uF/25V,1206-2 Passive      
+C74-2 Cap Pol,10uF/25V,1206-2 Passive      
+C75-1 Cap,0.1uF/0603-1 Passive      
+C76-1 Cap,0.1uF/0603-1 Passive      
+C77-1 Cap,0.1uF/0603-1 Passive      
+C78-1 Cap,0.1uF/0603-1 Passive      
+C79-1 Cap,0.1uF/0603-1 Passive      
+C80-1 Cap,0.1uF/0603-1 Passive      
+C81-1 Cap,0.1uF/0603-1 Passive      
+C82-1 Cap,0.1uF/0603-1 Passive      
+C83-1 Cap,0.1uF/0603-1 Passive      
+C84-1 Cap,0.1uF/0603-1 Passive      
+C85-1 Cap,0.1uF/0603-1 Passive      
+C86-2 Cap Pol,100uF/25V,1210-2 Passive      
+C87-2 Cap Pol,10uF/25V,1206-2 Passive      
+C88-2 Cap Pol,10uF/25V,1206-2 Passive      
+C90-1 Cap,0.1uF/0603-1 Passive      
+C91-1 Cap,0.1uF/0603-1 Passive      
+C92-1 Cap,0.1uF/0603-1 Passive      
+C93-1 Cap,0.1uF/0603-1 Passive      
+C94-1 Cap,0.1uF/0603-1 Passive      
+C95-1 Cap,0.1uF/0603-1 Passive      
+C96-1 Cap,0.1uF/0603-1 Passive      
+C97-1 Cap,0.1uF/0603-1 Passive      
+C98-1 Cap,0.1uF/0603-1 Passive      
+C99-1 Cap,0.1uF/0603-1 Passive      
+C100-1 Cap,0.1uF/0603-1 Passive      
+C112-2 Cap Pol,10uF/25V,1206-2 Passive      
+C113-1 Cap,0.1uF/0603-1 Passive      
+C114-1 Cap,0.1uF/0603-1 Passive      
+C115-1 Cap,0.1uF/0603-1 Passive      
+C116-1 Cap,0.1uF/0603-1 Passive      
+C117-1 Cap,0.1uF/0603-1 Passive      
+C118-1 Cap,0.1uF/0603-1 Passive      
+C119-1 Cap,0.1uF/0603-1 Passive      
+C120-1 Cap,0.1uF/0603-1 Passive      
+C121-1 Cap,0.1uF/0603-1 Passive      
+C122-1 Cap,0.1uF/0603-1 Passive      
+C123-1 Cap,0.1uF/0603-1 Passive      
+C124-1 Cap,0.1uF/0603-1 Passive      
+C125-1 Cap,0.1uF/0603-1 Passive      
+C126-1 Cap,0.1uF/0603-1 Passive      
+C127-1 Cap,0.1uF/0603-1 Passive      
+C128-1 Cap,0.1uF/0603-1 Passive      
+C129-2 Cap Pol,100uF/25V,1210-2 Passive      
+C130-2 Cap Pol,10uF/25V,1206-2 Passive      
+C131-2 Cap Pol,100uF/25V,1210-2 Passive      
+C136-1 Cap,0.1uF/0603-1 Passive      
+C137-1 Cap,0.1uF/0603-1 Passive      
+C138-1 Cap,0.1uF/0603-1 Passive      
+C139-1 Cap,0.1uF/0603-1 Passive      
+C140-1 Cap,0.1uF/0603-1 Passive      
+C141-1 Cap,0.1uF/0603-1 Passive      
+C142-1 Cap,0.1uF/0603-1 Passive      
+C143-1 Cap,0.1uF/0603-1 Passive      
+C144-2 Cap Pol,100uF/25V,1210-2 Passive      
+C145-2 Cap Pol,22uF/25V,1210-2 Passive      
+C146-2 Cap Pol,100uF/25V,1210-2 Passive      
+C162-2 Cap,0.1uF/0603-2 Passive      
+C163-2 Cap,0.1uF/0603-2 Passive      
+C164-2 Cap,1uF/0805-2 Passive      
+C165-2 Cap,0.1uF/0603-2 Passive      
+C166-2 Cap,1uF/0805-2 Passive      
+C167-2 Cap Pol,10uF/25V,1206-2 Passive      
+C168-2 Cap Pol,10uF/25V,1206-2 Passive      
+C169-2 Cap Pol,100uF/25V,1210-2 Passive      
+CH1-2 SMB-Y Passive      
+CH2-2 SMB-Y Passive      
+D2-1 P6SMBJ10A-A Passive      
+J1-5 D Connector 9-5 Passive      
+J2-2 5V INPUT-2 Power        
+J2-2A 5V INPUT-2A Power        
+J2-2B 5V INPUT-2B Power        
+J2-3 5V INPUT-3 Power        
+J2-3A 5V INPUT-3A Power        
+J2-3B 5V INPUT-3B Power        
+P2-2 牛角头 5X2-2 Passive      
+P2-10 牛角头 5X2-10 Passive      
+P5-1 Header 16-1 Passive      
+P5-16 Header 16-16 Passive      
+R7-1 Res,4.7K/0603-1 Passive      
+R8-2 Res,1K/0603-2 Passive      
+R30-2 Res,910R/0603-2 Passive      
+R32-2 Res,49R9/0603-2 Passive      
+R33-2 Res,49R9/0603-2 Passive      
+R41-1 Res Adj,20K-A Passive      
+R42-1 Res,10K/0603-1 Passive      
+R43-2 Res,0R/0805-2 Passive      
+R52-2 Res,10K/0603,NoPoP-2 Passive      
+R53-2 Res,10K/0603,NoPoP-2 Passive      
+SW1-B SW,EVQPLMA15_1-B Power        
+SW1-BB SW,EVQPLMA15_1-BB Power        
+U1-10 XC3S500E-4PQG208C-GND Power        
+U1-17 XC3S500E-4PQG208C-GND Power        
+U1-27 XC3S500E-4PQG208C-GND Power        
+U1-37 XC3S500E-4PQG208C-GND Power        
+U1-52 XC3S500E-4PQG208C-GND Power        
+U1-53 XC3S500E-4PQG208C-GND Power        
+U1-70 XC3S500E-4PQG208C-GND Power        
+U1-79 XC3S500E-4PQG208C-GND Power        
+U1-85 XC3S500E-4PQG208C-GND Power        
+U1-95 XC3S500E-4PQG208C-GND Power        
+U1-105 XC3S500E-4PQG208C-GND Power        
+U1-121 XC3S500E-4PQG208C-GND Power        
+U1-131 XC3S500E-4PQG208C-GND Power        
+U1-141 XC3S500E-4PQG208C-GND Power        
+U1-156 XC3S500E-4PQG208C-GND Power        
+U1-173 XC3S500E-4PQG208C-GND Power        
+U1-182 XC3S500E-4PQG208C-GND Power        
+U1-188 XC3S500E-4PQG208C-GND Power        
+U1-198 XC3S500E-4PQG208C-GND Power        
+U1-208 XC3S500E-4PQG208C-GND Power        
+U2-4 M25P80-Vss Passive      
+U3-15 MAX3232CSE-GND Power        
+U4-1 MAX811-EUS-T-GND Power        
+U6-12 AD7356-DGND Power        
+U9-6 AD9959-AGND Passive      
+U9-10 AD9959-AGND Passive      
+U9-12 AD9959-AGND Passive      
+U9-16 AD9959-AGND Passive      
+U9-18 AD9959-AGND Passive      
+U9-20 AD9959-AGND Passive      
+U9-25 AD9959-AGND Passive      
+U9-28 AD9959-AGND Passive      
+U9-32 AD9959-AGND Passive      
+U9-34 AD9959-AGND Passive      
+U9-38 AD9959-AGND Passive      
+U9-44 AD9959-DGVD Power        
+U9-56 AD9959-DGND Power        
+U10-3 SW_ADG619-GND Passive      
+U10-7 SW_ADG619-VSS Passive      
+U11-3 SW_ADG619-GND Passive      
+U11-7 SW_ADG619-VSS Passive      
+U12-4 BUS_74LVCH16T245-EP-GND Passive      
+U12-10 BUS_74LVCH16T245-EP-GND Passive      
+U12-15 BUS_74LVCH16T245-EP-GND Passive      
+U12-21 BUS_74LVCH16T245-EP-GND Passive      
+U12-28 BUS_74LVCH16T245-EP-GND Passive      
+U12-34 BUS_74LVCH16T245-EP-GND Passive      
+U12-39 BUS_74LVCH16T245-EP-GND Passive      
+U12-45 BUS_74LVCH16T245-EP-GND Passive      
+U13-1 LM1117S-3.3-ADJ/GND Power        
+U14-1 AS1117-2.5-GND Passive      
+U15-1 FAN1112-GND Passive      
+U19-1 LM1117-1V8-GND Passive      
+Y1-2 XTAL_50M-GND Power        
+)
+(
+DDS_SYNC_CLK
+TP_1-1 TP_DDS_SYNC_CLK-TP Passive      
+U9-54 AD9959-SYNC_CLK Output       
+)
+(
+DDS_SDIO_3
+U1-186 XC3S500E-4PQG208C-IO_L10N_0/GCLK11 IO           
+U9-53 AD9959-SDIO_3 IO           
+)
+(
+DDS_SDIO_2
+U1-187 XC3S500E-4PQG208C-IO IO           
+U9-52 AD9959-SDIO_2 IO           
+)
+(
+DDS_SDIO_1
+U1-189 XC3S500E-4PQG208C-IO_L11P_0 IO           
+U9-51 AD9959-SDIO_1 IO           
+)
+(
+DDS_SDIO_0
+U1-190 XC3S500E-4PQG208C-IO_L11N_0 IO           
+U9-50 AD9959-SDIO_0 IO           
+)
+(
+DDS_S_CLK
+U1-192 XC3S500E-4PQG208C-IO_L12P_0 IO           
+U9-48 AD9959-S_CLK Input        
+)
+(
+DDS_PWR_DWN_CTL
+U1-178 XC3S500E-4PQG208C-IO_L07N_0/GCLK5 IO           
+U9-4 AD9959-PWR_DWN_CTL Input        
+)
+(
+DDS_MASTER_RESET
+U1-179 XC3S500E-4PQG208C-IO/VREF_0 IO           
+U9-3 AD9959-MASTER_RESET Input        
+)
+(
+DDS_IO_UPDATE
+U1-196 XC3S500E-4PQG208C-IO_L13P_0 IO           
+U9-46 AD9959-IO_UPDATE Input        
+)
+(
+DDS_CLK_MODE_SEL
+U1-203 XC3S500E-4PQG208C-IO_L15N_0 IO           
+U9-24 AD9959-CLK_MODE_SEL Input        
+)
+(
+DDS_\C\S\
+U1-193 XC3S500E-4PQG208C-IO_L12N_0/VREF_0 IO           
+U9-47 AD9959-C\S\ Input        
+)
+(
+CTL_REF
+U1-160 XC3S500E-4PQG208C-IO_L01P_0 IO           
+U11-6 SW_ADG619-IN Passive      
+)
+(
+CTL_MES
+U1-206 XC3S500E-4PQG208C-IO_L16N_0/HSWAP IO           
+U10-6 SW_ADG619-IN Passive      
+)
+(
+CH3_IOUT
+L13-1 Inductor,L0805,885.383nH-1 Passive      
+R25-2 Res,50R/0603-2 Passive      
+U9-13 AD9959-CH3_IOUT Output       
+)
+(
+CH3_100M
+L8-2 Inductor,L0805,35.415nH-2 Passive      
+)
+(
+CH3_4M
+L16-2 Inductor,L0805,885.383nH-2 Passive      
+U11-2 SW_ADG619-S1 Passive      
+)
+(
+CH2_IOUT
+L5-1 Inductor,L0805,35.415nH-1 Passive      
+R22-2 Res,50R/0603-2 Passive      
+U9-8 AD9959-CH2_IOUT Output       
+)
+(
+CH2_100M
+U11-8 SW_ADG619-S2 Passive      
+)
+(
+CH1_IOUT
+L9-1 Inductor,L0805,885.383nH-1 Passive      
+R21-1 Res,50R/0603-1 Passive      
+U9-36 AD9959-CH1_IOUT Output       
+)
+(
+CH1_4M
+L12-2 Inductor,L0805,885.383nH-2 Passive      
+U10-2 SW_ADG619-S1 Passive      
+)
+(
+CH0_IOUT
+L1-1 Inductor,L0805,35.415nH-1 Passive      
+R26-1 Res,50R/0603-1 Passive      
+U9-30 AD9959-CH0_IOUT Output       
+)
+(
+CH0_100M
+L4-2 Inductor,L0805,35.415nH-2 Passive      
+U10-8 SW_ADG619-S2 Passive      
+)
+(
+C\H\3\_\I\O\U\T\
+R27-2 Res,50R/0603-2 Passive      
+U9-14 AD9959-C\H\3\_\I\O\U\T\ Output       
+)
+(
+C\H\2\_\I\O\U\T\
+R24-2 Res,50R/0603-2 Passive      
+U9-9 AD9959-C\H\2\_\I\O\U\T\ Output       
+)
+(
+C\H\1\_\I\O\U\T\
+R23-1 Res,50R/0603-1 Passive      
+U9-35 AD9959-C\H\1\_\I\O\U\T\ Output       
+)
+(
+C\H\0\_\I\O\U\T\
+R28-1 Res,50R/0603-1 Passive      
+U9-29 AD9959-C\H\0\_\I\O\U\T\ Output       
+)
+(
+3V3
+C1-1 Cap,0.1uF/0603-1 Passive      
+C2-1 Cap,0.1uF/0603-1 Passive      
+C5-1 Cap,0.1uF/0603-1 Passive      
+C46-1 Cap,0.1uF/0603-1 Passive      
+C47-1 Cap,0.1uF/0603-1 Passive      
+C68-2 Cap,0.1uF/0603-2 Passive      
+C69-2 Cap,0.1uF/0603-2 Passive      
+C70-2 Cap,0.1uF/0603-2 Passive      
+C71-2 Cap,0.1uF/0603-2 Passive      
+C72-1 Cap Pol,10uF/25V,1206-1 Passive      
+C73-1 Cap Pol,10uF/25V,1206-1 Passive      
+C74-1 Cap Pol,10uF/25V,1206-1 Passive      
+C75-2 Cap,0.1uF/0603-2 Passive      
+C76-2 Cap,0.1uF/0603-2 Passive      
+C77-2 Cap,0.1uF/0603-2 Passive      
+C78-2 Cap,0.1uF/0603-2 Passive      
+C79-2 Cap,0.1uF/0603-2 Passive      
+C80-2 Cap,0.1uF/0603-2 Passive      
+C81-2 Cap,0.1uF/0603-2 Passive      
+C82-2 Cap,0.1uF/0603-2 Passive      
+C83-2 Cap,0.1uF/0603-2 Passive      
+C84-2 Cap,0.1uF/0603-2 Passive      
+C85-2 Cap,0.1uF/0603-2 Passive      
+C87-1 Cap Pol,10uF/25V,1206-1 Passive      
+C88-1 Cap Pol,10uF/25V,1206-1 Passive      
+C90-2 Cap,0.1uF/0603-2 Passive      
+C91-2 Cap,0.1uF/0603-2 Passive      
+C92-2 Cap,0.1uF/0603-2 Passive      
+C93-2 Cap,0.1uF/0603-2 Passive      
+C94-2 Cap,0.1uF/0603-2 Passive      
+C95-2 Cap,0.1uF/0603-2 Passive      
+C96-2 Cap,0.1uF/0603-2 Passive      
+C97-2 Cap,0.1uF/0603-2 Passive      
+C98-2 Cap,0.1uF/0603-2 Passive      
+C99-2 Cap,0.1uF/0603-2 Passive      
+C100-2 Cap,0.1uF/0603-2 Passive      
+C144-1 Cap Pol,100uF/25V,1210-1 Passive      
+P2-4 牛角头 5X2-4 Passive      
+R1-2 Res,4.7K/0603-2 Passive      
+R2-1 Res,2.2R/0603-1 Passive      
+R4-2 Res,4.7K/0603-2 Passive      
+R5-1 Res,10K/0603-1 Passive      
+R6-1 Res,10K/0603-1 Passive      
+R9-2 Res,1K/0603-2 Passive      
+R10-2 Res,1K/0603-2 Passive      
+R11-2 Res,1K/0603-2 Passive      
+R12-2 Res,10K/0603-2 Passive      
+R13-1 Res,10K/0603-1 Passive      
+R14-1 Res,10K/0603-1 Passive      
+R34-2 Res,4.7K/0603-2 Passive      
+R35-2 Res,4.7K/0603-2 Passive      
+R36-2 Res,4.7K/0603-2 Passive      
+R46-1 Res,10K/0603-1 Passive      
+R47-1 Res,10K/0603-1 Passive      
+R48-1 Res,10K/0603-1 Passive      
+R49-1 Res,10K/0603-1 Passive      
+R50-1 Res,10K/0603-1 Passive      
+R51-1 Res,10K/0603-1 Passive      
+TP_3-1 3V3-TP Passive      
+U1-21 XC3S500E-4PQG208C-VCCO_3 Power        
+U1-38 XC3S500E-4PQG208C-VCCO_3 Power        
+U1-46 XC3S500E-4PQG208C-VCCO_3 Power        
+U1-59 XC3S500E-4PQG208C-VCCO_2 Power        
+U1-73 XC3S500E-4PQG208C-VCCO_2 Power        
+U1-88 XC3S500E-4PQG208C-VCCO_2 Power        
+U1-114 XC3S500E-4PQG208C-VCCO_1 Power        
+U1-125 XC3S500E-4PQG208C-VCCO_1 Power        
+U1-143 XC3S500E-4PQG208C-VCCO_1 Power        
+U1-176 XC3S500E-4PQG208C-VCCO_0 Power        
+U1-191 XC3S500E-4PQG208C-VCCO_0 Power        
+U1-201 XC3S500E-4PQG208C-VCCO_0 Power        
+U2-8 M25P80-Vcc Passive      
+U3-16 MAX3232CSE-VCC Power        
+U4-4 MAX811-EUS-T-VCC Power        
+U6-16 AD7356-VDRIVE Power        
+U9-49 AD9959-DVDD_IO Power        
+U12-7 BUS_74LVCH16T245-EP-VCCB Passive      
+U12-18 BUS_74LVCH16T245-EP-VCCB Passive      
+U13-2 LM1117S-3.3-Vout Power        
+U13-4 LM1117S-3.3-Vo Power        
+U15-3 FAN1112-VIN Passive      
+)
+(
+1V8
+C18-1 Cap,0.1uF/0603-1 Passive      
+C19-1 Cap,0.1uF/0603-1 Passive      
+C20-1 Cap,0.1uF/0603-1 Passive      
+C21-1 Cap,0.1uF/0603-1 Passive      
+C22-1 Cap,0.1uF/0603-1 Passive      
+C23-1 Cap,0.1uF/0603-1 Passive      
+C24-1 Cap,0.1uF/0603-1 Passive      
+C25-1 Cap,0.1uF/0603-1 Passive      
+C26-1 Cap,0.1uF/0603-1 Passive      
+C27-1 Cap,0.1uF/0603-1 Passive      
+C28-1 Cap,0.1uF/0603-1 Passive      
+C29-1 Cap,0.1uF/0603-1 Passive      
+C30-1 Cap,0.1uF/0603-1 Passive      
+C31-1 Cap,0.1uF/0603-1 Passive      
+C32-1 Cap,0.1uF/0603-1 Passive      
+C33-1 Cap,0.1uF/0603-1 Passive      
+C34-1 Cap,0.1uF/0603-1 Passive      
+C35-1 Cap,0.1uF/0603-1 Passive      
+C36-1 Cap,0.1uF/0603-1 Passive      
+C37-1 Cap,0.1uF/0603-1 Passive      
+C38-1 Cap,0.1uF/0603-1 Passive      
+C39-1 Cap,680pF/0603-1 Passive      
+C41-1 Cap,0.1uF/0603-1 Passive      
+C42-1 Cap,0.1uF/0603-1 Passive      
+C43-1 Cap,0.1uF/0603-1 Passive      
+C44-1 Cap,0.1uF/0603-1 Passive      
+C168-1 Cap Pol,10uF/25V,1206-1 Passive      
+C169-1 Cap Pol,100uF/25V,1210-1 Passive      
+R21-2 Res,50R/0603-2 Passive      
+R22-1 Res,50R/0603-1 Passive      
+R23-2 Res,50R/0603-2 Passive      
+R24-1 Res,50R/0603-1 Passive      
+R25-1 Res,50R/0603-1 Passive      
+R26-2 Res,50R/0603-2 Passive      
+R27-1 Res,50R/0603-1 Passive      
+R28-2 Res,50R/0603-2 Passive      
+TP_9-1 1V8-TP Passive      
+U9-5 AD9959-AVDD Power        
+U9-7 AD9959-AVDD Power        
+U9-11 AD9959-AVDD Power        
+U9-15 AD9959-AVDD Power        
+U9-19 AD9959-AVDD Power        
+U9-21 AD9959-AVDD Power        
+U9-26 AD9959-AVDD Power        
+U9-31 AD9959-AVDD Power        
+U9-33 AD9959-AVDD Power        
+U9-37 AD9959-AVDD Power        
+U9-39 AD9959-AVDD Power        
+U9-45 AD9959-DVDD Power        
+U9-55 AD9959-DVDD Power        
+U19-2 LM1117-1V8-Vout Passive      
+U19-4 LM1117-1V8-VOUT Passive      
+)
+(
+RS_FPGA_LCD
+U1-128 XC3S500E-4PQG208C-IO_L08P_1/A8/RHCLK2 IO           
+U12-47 BUS_74LVCH16T245-EP-1A1 Passive      
+)
+(
+R/W_FPGA_LCD
+U1-129 XC3S500E-4PQG208C-IO_L08N_1/A7/RHCLK3 IO           
+U12-46 BUS_74LVCH16T245-EP-1A2 Passive      
+)
+(
+O\E\_LCD
+R36-1 Res,4.7K/0603-1 Passive      
+R37-1 Res,0R/0603-1 Passive      
+R39-1 Res,0R/0603-1 Passive      
+U1-127 XC3S500E-4PQG208C-IO_L07N_1/A9/RHCLK1 IO           
+)
+(
+NU_FPGA_5
+U1-151 XC3S500E-4PQG208C-IO_L15N_1/LDC0 IO           
+U12-26 BUS_74LVCH16T245-EP-2A8 Passive      
+)
+(
+NU_FPGA_4
+U1-150 XC3S500E-4PQG208C-IO_L15P_1/HDC IO           
+U12-27 BUS_74LVCH16T245-EP-2A7 Passive      
+)
+(
+NU_FPGA_3
+U1-147 XC3S500E-4PQG208C-IO_L14N_1 IO           
+U12-29 BUS_74LVCH16T245-EP-2A6 Passive      
+)
+(
+NU_FPGA_2
+U1-146 XC3S500E-4PQG208C-IO_L14P_1 IO           
+U12-30 BUS_74LVCH16T245-EP-2A5 Passive      
+)
+(
+NU_FPGA_1
+U1-145 XC3S500E-4PQG208C-IO_L13N_1 IO           
+U12-32 BUS_74LVCH16T245-EP-2A4 Passive      
+)
+(
+E_FPGA_LCD
+U1-132 XC3S500E-4PQG208C-IO_L09P_1/A6/RHCLK4 IO           
+U12-44 BUS_74LVCH16T245-EP-1A3 Passive      
+)
+(
+DB7_FPGA_LCD
+U1-144 XC3S500E-4PQG208C-IO_L13P_1 IO           
+U12-33 BUS_74LVCH16T245-EP-2A3 Passive      
+)
+(
+DB6_FPGA_LCD
+U1-140 XC3S500E-4PQG208C-IO_L12N_1/A0 IO           
+U12-35 BUS_74LVCH16T245-EP-2A2 Passive      
+)
+(
+DB5_FPGA_LCD
+U1-139 XC3S500E-4PQG208C-IO_L12P_1 IO           
+U12-36 BUS_74LVCH16T245-EP-2A1 Passive      
+)
+(
+DB4_FPGA_LCD
+U1-138 XC3S500E-4PQG208C-IO_L11N_1/A1 IO           
+U12-37 BUS_74LVCH16T245-EP-1A8 Passive      
+)
+(
+DB3_FPGA_LCD
+U1-137 XC3S500E-4PQG208C-IO_L11P_1/A2 IO           
+U12-38 BUS_74LVCH16T245-EP-1A7 Passive      
+)
+(
+DB2_FPGA_LCD
+U1-135 XC3S500E-4PQG208C-IO_L10N_1/A3/RHCLK7 IO           
+U12-40 BUS_74LVCH16T245-EP-1A6 Passive      
+)
+(
+DB1_FPGA_LCD
+U1-134 XC3S500E-4PQG208C-IO_L10P_1/A4/RHCLK6 IO           
+U12-41 BUS_74LVCH16T245-EP-1A5 Passive      
+)
+(
+DB0_FPGA_LCD
+U1-133 XC3S500E-4PQG208C-IO_L09N_1/A5/RHCLK5 IO           
+U12-43 BUS_74LVCH16T245-EP-1A4 Passive      
+)
+(
+2DIR_LCD
+R34-1 Res,4.7K/0603-1 Passive      
+R40-1 Res,0R/0603-1 Passive      
+U1-152 XC3S500E-4PQG208C-IO_L16P_1/LDC1 IO           
+)
+(
+1DIR_LCD
+R35-1 Res,4.7K/0603-1 Passive      
+R38-1 Res,0R/0603-1 Passive      
+U1-126 XC3S500E-4PQG208C-IO_L07P_1/A10/RHCLK0 IO           
+)
+(
+REFB
+C151-1 Cap,0.1uF/0603-1 Passive      
+C155-1 Cap Pol,10uF/25V,1206-1 Passive      
+C156-1 Cap,0.1uF/0603-1 Passive      
+U6-6 AD7356-REFB Power        
+U7-3 OP727-+INB Input        
+U17-6 ADR421-VOUT Power        
+)
+(
+REFA
+C147-1 Cap,0.1uF/0603-1 Passive      
+C148-1 Cap Pol,10uF/25V,1206-1 Passive      
+C154-1 Cap,0.1uF/0603-1 Passive      
+U6-3 AD7356-REFA Passive      
+U7-1 OP727-+INA Input        
+U16-6 ADR421-VOUT Power        
+)
+(
+NetC10_1
+C10-1 Cap,0.1uF/0603-1 Passive      
+RS1-1 Res,33R/0603-1 Passive      
+U6-1 AD7356-VINA+ Input        
+)
+(
+NetC11_1
+C11-1 Cap,0.1uF/0603-1 Passive      
+RS2-1 Res,33R/0603-1 Passive      
+U6-2 AD7356-VINA- Input        
+)
+(
+NetC13_1
+C13-1 Cap,0.1uF/0603-1 Passive      
+R16-2 Res,10K/0603-2 Passive      
+R17-2 Res,10K/0603-2 Passive      
+U5-2 AD8138-VOCM Input        
+)
+(
+NetC14_1
+C14-1 Cap,0.1uF/0603-1 Passive      
+RS3-1 Res,33R/0603-1 Passive      
+U6-7 AD7356-VINB- Input        
+)
+(
+NetC15_1
+C15-1 Cap,0.1uF/0603-1 Passive      
+RS4-1 Res,33R/0603-1 Passive      
+U6-8 AD7356-VINB+ Input        
+)
+(
+NetC17_1
+C17-1 Cap,0.1uF/0603-1 Passive      
+R19-2 Res,10K/0603-2 Passive      
+R20-2 Res,10K/0603-2 Passive      
+U8-2 AD8138-VOCM Input        
+)
+(
+NetCF1_1
+CF1-1 Cap,39PF/0603-1 Passive      
+RF1-1 Res,499R/0603-1 Passive      
+RS1-2 Res,33R/0603-2 Passive      
+U5-5 AD8138--OUT Output       
+)
+(
+NetCF1_2
+CF1-2 Cap,39PF/0603-2 Passive      
+RF1-2 Res,499R/0603-2 Passive      
+RG1-1 Res,499R/0603-1 Passive      
+U5-8 AD8138-+IN Input        
+)
+(
+NetCF2_1
+CF2-1 Cap,39PF/0603-1 Passive      
+RF2-1 Res,499R/0603-1 Passive      
+RS2-2 Res,33R/0603-2 Passive      
+U5-4 AD8138-+OUT Output       
+)
+(
+NetCF2_2
+CF2-2 Cap,39PF/0603-2 Passive      
+RF2-2 Res,499R/0603-2 Passive      
+RG3-1 Res,523R/0603-1 Passive      
+U5-1 AD8138--IN Input        
+)
+(
+NetCF3_1
+CF3-1 Cap,39PF/0603-1 Passive      
+RF3-1 Res,499R/0603-1 Passive      
+RS3-2 Res,33R/0603-2 Passive      
+U8-5 AD8138--OUT Output       
+)
+(
+NetCF3_2
+CF3-2 Cap,39PF/0603-2 Passive      
+RF3-2 Res,499R/0603-2 Passive      
+RG4-1 Res,499R/0603-1 Passive      
+U8-8 AD8138-+IN Input        
+)
+(
+NetCF4_1
+CF4-1 Cap,39PF/0603-1 Passive      
+RF4-1 Res,499R/0603-1 Passive      
+RS4-2 Res,33R/0603-2 Passive      
+U8-4 AD8138-+OUT Output       
+)
+(
+NetCF4_2
+CF4-2 Cap,39PF/0603-2 Passive      
+RF4-2 Res,499R/0603-2 Passive      
+RG6-1 Res,523R/0603-1 Passive      
+U8-1 AD8138--IN Input        
+)
+(
+NetR15_1
+R15-1 Res,0R/0603-1 Passive      
+U6-14 AD7356-SDATA_A Output       
+)
+(
+NetR16_1
+R16-1 Res,10K/0603-1 Passive      
+U7-7 OP727-OUTA Output       
+U7-8 OP727--INA Input        
+)
+(
+NetR18_1
+R18-1 Res,0R/0603-1 Passive      
+U6-13 AD7356-SDATA_B Output       
+)
+(
+NetR19_1
+R19-1 Res,10K/0603-1 Passive      
+U7-4 OP727--INB Input        
+U7-5 OP727-OUTB Output       
+)
+(
+NetR44_1
+R44-1 Res,49R9/0603-1 Passive      
+RG1-2 Res,499R/0603-2 Passive      
+V1-1 SMB-X Passive      
+)
+(
+NetR45_1
+R45-1 Res,49R9/0603-1 Passive      
+RG4-2 Res,499R/0603-2 Passive      
+V2-1 SMB-X Passive      
+)
+(
+AGND
+C10-2 Cap,0.1uF/0603-2 Passive      
+C11-2 Cap,0.1uF/0603-2 Passive      
+C13-2 Cap,0.1uF/0603-2 Passive      
+C14-2 Cap,0.1uF/0603-2 Passive      
+C15-2 Cap,0.1uF/0603-2 Passive      
+C17-2 Cap,0.1uF/0603-2 Passive      
+C45-2 Cap,0.1uF/0603-2 Passive      
+C61-2 Cap,0.1uF/0603-2 Passive      
+C62-2 Cap Pol,10uF/25V,1206-2 Passive      
+C63-2 Cap,0.1uF/0603-2 Passive      
+C64-2 Cap Pol,10uF/25V,1206-2 Passive      
+C65-2 Cap,0.1uF/0603-2 Passive      
+C66-2 Cap Pol,10uF/25V,1206-2 Passive      
+C147-2 Cap,0.1uF/0603-2 Passive      
+C148-2 Cap Pol,10uF/25V,1206-2 Passive      
+C149-2 Cap,0.1uF/0603-2 Passive      
+C150-2 Cap Pol,10uF/25V,1206-2 Passive      
+C151-2 Cap,0.1uF/0603-2 Passive      
+C152-2 Cap,0.1uF/0603-2 Passive      
+C153-2 Cap Pol,10uF/25V,1206-2 Passive      
+C154-2 Cap,0.1uF/0603-2 Passive      
+C155-2 Cap Pol,10uF/25V,1206-2 Passive      
+C156-2 Cap,0.1uF/0603-2 Passive      
+C157-2 Cap Pol,10uF/25V,1206-2 Passive      
+C158-2 Cap Pol,10uF/25V,1206-2 Passive      
+C159-2 Cap,0.1uF/0603-2 Passive      
+C160-2 Cap Pol,10uF/25V,1206-2 Passive      
+C161-2 Cap Pol,100uF/25V,1210-2 Passive      
+R17-1 Res,10K/0603-1 Passive      
+R20-1 Res,10K/0603-1 Passive      
+R43-1 Res,0R/0805-1 Passive      
+R44-2 Res,49R9/0603-2 Passive      
+R45-2 Res,49R9/0603-2 Passive      
+RG3-2 Res,523R/0603-2 Passive      
+RG6-2 Res,523R/0603-2 Passive      
+U5-6 AD8138-V- Power        
+U6-4 AD7356-REFGND Power        
+U6-5 AD7356-AGND Power        
+U6-11 AD7356-AGND Power        
+U7-2 OP727-V- Power        
+U8-6 AD8138-V- Power        
+U16-4 ADR421-GND Power        
+U17-4 ADR421-GND Power        
+U18-1 LM1117-2V5-GND Passive      
+V1-2 SMB-Y Passive      
+V2-2 SMB-Y Passive      
+)
+(
+A_LCD
+C12-1 Cap Pol,47uF/25V,1210-1 Passive      
+C16-1 Cap Pol,150uF/25V,7343-1 Passive      
+C61-1 Cap,0.1uF/0603-1 Passive      
+C62-1 Cap Pol,10uF/25V,1206-1 Passive      
+C63-1 Cap,0.1uF/0603-1 Passive      
+C64-1 Cap Pol,10uF/25V,1206-1 Passive      
+C65-1 Cap,0.1uF/0603-1 Passive      
+C66-1 Cap Pol,10uF/25V,1206-1 Passive      
+C67-1 Cap Pol,10uF/25V,1206-1 Passive      
+C86-1 Cap Pol,100uF/25V,1210-1 Passive      
+C129-1 Cap Pol,100uF/25V,1210-1 Passive      
+C149-1 Cap,0.1uF/0603-1 Passive      
+C150-1 Cap Pol,10uF/25V,1206-1 Passive      
+C152-1 Cap,0.1uF/0603-1 Passive      
+C153-1 Cap Pol,10uF/25V,1206-1 Passive      
+C158-1 Cap Pol,10uF/25V,1206-1 Passive      
+C162-1 Cap,0.1uF/0603-1 Passive      
+C163-1 Cap,0.1uF/0603-1 Passive      
+C164-1 Cap,1uF/0805-1 Passive      
+C165-1 Cap,0.1uF/0603-1 Passive      
+C166-1 Cap,1uF/0805-1 Passive      
+C167-1 Cap Pol,10uF/25V,1206-1 Passive      
+D1-1 LED-1 Passive      
+D2-2 P6SMBJ10A-K Passive      
+P5-2 Header 16-2 Passive      
+P5-15 Header 16-15 Passive      
+R41-2 Res Adj,20K-B Passive      
+SW2-2 SW-12D09-NO Passive      
+TP_2-1 5V-TP Passive      
+U5-3 AD8138-V+ Power        
+U7-6 OP727-V+ Power        
+U8-3 AD8138-V+ Power        
+U10-4 SW_ADG619-VDD Passive      
+U11-4 SW_ADG619-VDD Passive      
+U12-31 BUS_74LVCH16T245-EP-VCCA Passive      
+U12-42 BUS_74LVCH16T245-EP-VCCA Passive      
+U13-3 LM1117S-3.3-IN Power        
+U14-3 AS1117-2.5-Vin Passive      
+U16-2 ADR421-VIN Power        
+U17-2 ADR421-VIN Power        
+U18-3 LM1117-2V5-Vin Passive      
+U19-3 LM1117-1V8-Vin Passive      
+)
+(
+2V5A
+C45-1 Cap,0.1uF/0603-1 Passive      
+C157-1 Cap Pol,10uF/25V,1206-1 Passive      
+C159-1 Cap,0.1uF/0603-1 Passive      
+C160-1 Cap Pol,10uF/25V,1206-1 Passive      
+C161-1 Cap Pol,100uF/25V,1210-1 Passive      
+TP_8-1 2V5-TP Passive      
+U6-9 AD7356-VDD Power        
+U18-2 LM1117-2V5-Vout Passive      
+U18-4 LM1117-2V5-VOUT Passive      
+)
+(
+TX232_FPGA
+U1-106 XC3S500E-4PQG208C-IO_L01P_1/A16 IO           
+U3-10 MAX3232CSE-T2in Input        
+)
+(
+TX232
+J1-2 D Connector 9-2 Passive      
+U3-7 MAX3232CSE-T2out Output       
+)
+(
+TMS_FPGA
+P2-5 牛角头 5X2-5 Passive      
+R10-1 Res,1K/0603-1 Passive      
+U1-155 XC3S500E-4PQG208C-TMS Input        
+)
+(
+TDO_FPGA
+P2-3 牛角头 5X2-3 Passive      
+R9-1 Res,1K/0603-1 Passive      
+U1-157 XC3S500E-4PQG208C-TDO Output       
+)
+(
+TDI_FPGA
+P2-9 牛角头 5X2-9 Passive      
+R11-1 Res,1K/0603-1 Passive      
+U1-207 XC3S500E-4PQG208C-TDI Input        
+)
+(
+TCK_FPGA
+P2-1 牛角头 5X2-1 Passive      
+R8-1 Res,1K/0603-1 Passive      
+U1-158 XC3S500E-4PQG208C-TCK Input        
+)
+(
+SS
+P3-4 绿色端子 8PIN,3.5mm间距-4 Passive      
+R48-2 Res,10K/0603-2 Passive      
+U1-24 XC3S500E-4PQG208C-IO_L08P_3/LHCLK2 IO           
+)
+(
+SPI_W
+P3-6 绿色端子 8PIN,3.5mm间距-6 Passive      
+R46-2 Res,10K/0603-2 Passive      
+U1-22 XC3S500E-4PQG208C-IO_L07P_3/LHCLK0 IO           
+)
+(
+SPI_SCLK
+P3-1 绿色端子 8PIN,3.5mm间距-1 Passive      
+R51-2 Res,10K/0603-2 Passive      
+U1-34 XC3S500E-4PQG208C-IO_L11N_3 IO           
+)
+(
+SPI_R
+P3-5 绿色端子 8PIN,3.5mm间距-5 Passive      
+R47-2 Res,10K/0603-2 Passive      
+U1-23 XC3S500E-4PQG208C-IO_L07N_3/LHCLK1 IO           
+)
+(
+SDATA_B
+R18-2 Res,0R/0603-2 Passive      
+U1-98 XC3S500E-4PQG208C-IO/VREF_2 IO           
+)
+(
+SDATA_A
+R15-2 Res,0R/0603-2 Passive      
+U1-94 XC3S500E-4PQG208C-IO_L14N_2/A22 IO           
+)
+(
+RX232_FPGA
+U1-107 XC3S500E-4PQG208C-IO_L01N_1/A15 IO           
+U3-9 MAX3232CSE-R2out Output       
+)
+(
+RX232
+J1-3 D Connector 9-3 Passive      
+U3-8 MAX3232CSE-R2in Input        
+)
+(
+NU_SPI_2
+P3-8 绿色端子 8PIN,3.5mm间距-8 Passive      
+R5-2 Res,10K/0603-2 Passive      
+R52-1 Res,10K/0603,NoPoP-1 Passive      
+R57-2 Res,0R/0603-2 Passive      
+)
+(
+NU_SPI_1
+P3-7 绿色端子 8PIN,3.5mm间距-7 Passive      
+R6-2 Res,10K/0603-2 Passive      
+R53-1 Res,10K/0603,NoPoP-1 Passive      
+R56-2 Res,0R/0603-2 Passive      
+)
+(
+NetC3_1
+C3-1 Cap,0.1uF/0603-1 Passive      
+C4-1 Cap Pol,10uF/25V,1206-1 Passive      
+R2-2 Res,2.2R/0603-2 Passive      
+Y1-4 XTAL_50M-VCC Power        
+)
+(
+NetC6_1
+C6-1 Cap,0.1uF/0603-1 Passive      
+U3-4 MAX3232CSE-C2+ Power        
+)
+(
+NetC6_2
+C6-2 Cap,0.1uF/0603-2 Passive      
+U3-5 MAX3232CSE-C2- Power        
+)
+(
+NetC7_1
+C7-1 Cap,0.1uF/0603-1 Passive      
+U3-3 MAX3232CSE-C1- Power        
+)
+(
+NetC7_2
+C7-2 Cap,0.1uF/0603-2 Passive      
+U3-1 MAX3232CSE-C1+ Power        
+)
+(
+NetC8_1
+C8-1 Cap,0.1uF/0603-1 Passive      
+U3-2 MAX3232CSE-V+ Power        
+)
+(
+NetC9_2
+C9-2 Cap,0.1uF/0603-2 Passive      
+U3-6 MAX3232CSE-V- Power        
+)
+(
+NetP1_1
+P1-1 Header 3-1 Passive      
+R7-2 Res,4.7K/0603-2 Passive      
+)
+(
+NetP1_2
+P1-2 Header 3-2 Passive      
+U2-3 M25P80-W\ Passive      
+)
+(
+NetP1_3
+P1-3 Header 3-3 Passive      
+R1-1 Res,4.7K/0603-1 Passive      
+)
+(
+NetR3_1
+R3-1 Res,2.2R/0603-1 Passive      
+Y1-3 XTAL_50M-OUT Output       
+)
+(
+NetR4_1
+R4-1 Res,4.7K/0603-1 Passive      
+U2-7 M25P80-H\O\L\D\ Passive      
+)
+(
+NetR12_1
+R12-1 Res,10K/0603-1 Passive      
+SW1-A SW,EVQPLMA15_1-A Power        
+SW1-AA SW,EVQPLMA15_1-AA Power        
+U4-3 MAX811-EUS-T-M\R\ Input        
+)
+(
+NetR13_2
+R13-2 Res,10K/0603-2 Passive      
+U1-1 XC3S500E-4PQG208C-PROG_B Input        
+U4-2 MAX811-EUS-T-R\S\T\ Output       
+)
+(
+NetR14_2
+R14-2 Res,10K/0603-2 Passive      
+U1-104 XC3S500E-4PQG208C-DONE IO           
+)
+(
+MOSI_FLASH
+U1-61 XC3S500E-4PQG208C-IO_L03N_2/MOSI/CSI_B IO           
+U2-5 M25P80-D Passive      
+)
+(
+MOSI
+P3-2 绿色端子 8PIN,3.5mm间距-2 Passive      
+R50-2 Res,10K/0603-2 Passive      
+R54-2 Res,0R/0603-2 Passive      
+)
+(
+MISO
+P3-3 绿色端子 8PIN,3.5mm间距-3 Passive      
+R49-2 Res,10K/0603-2 Passive      
+R55-2 Res,0R/0603-2 Passive      
+)
+(
+DIN_FLASH
+U1-87 XC3S500E-4PQG208C-IO_L12N_2/DIN/D0 IO           
+U2-2 M25P80-Q Passive      
+)
+(
+CSO_B_FLASH
+U1-55 XC3S500E-4PQG208C-IO_L01P_2/CSO_B IO           
+U2-1 M25P80-S\ Passive      
+)
+(
+CLK_FPGA_50M
+R3-2 Res,2.2R/0603-2 Passive      
+U1-183 XC3S500E-4PQG208C-IP_L09P_0/GCLK8 Input        
+)
+(
+CLK_FLASH
+U1-103 XC3S500E-4PQG208C-IO_L17N_2/CCLK IO           
+U2-6 M25P80-C Passive      
+)
+(
+AD_SCLK
+U1-90 XC3S500E-4PQG208C-IO_L13N_2 IO           
+U6-15 AD7356-SCLK HiZ          
+)
+(
+AD_C\S\
+U1-100 XC3S500E-4PQG208C-IO_L16N_2/VS1/A18 IO           
+U6-10 AD7356-C\S\ Input        
+)

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetJ2_1 Pin=SW2-1
+Removed Pin From Net: NetName=A_LCD Pin=SW2-2
+Added Pin To Net: NetName=A_LCD Pin=SW2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=SW2-2

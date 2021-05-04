@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=P1 Pin=U1-200
+Removed Pin From Net: NetName=P0 Pin=U1-202
+Removed Pin From Net: NetName=DDS_CLK_MODE_SEL Pin=U1-203
+Removed Pin From Net: NetName=CTL_MES Pin=U1-205
+Added Pin To Net: NetName=P1 Pin=U1-202
+Added Pin To Net: NetName=P0 Pin=U1-203
+Added Pin To Net: NetName=DDS_CLK_MODE_SEL Pin=U1-205
+Added Pin To Net: NetName=CTL_MES Pin=U1-206

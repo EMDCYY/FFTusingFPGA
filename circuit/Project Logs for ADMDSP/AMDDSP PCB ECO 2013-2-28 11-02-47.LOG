@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SDATA_B Pin=U1-151
+Removed Pin From Net: NetName=SDATA_A Pin=U1-153
+Change Component Comment : Designator=TP_5 Old Comment=TP_1V2 New Comment=1V2
+Change Component Comment : Designator=TP_4 Old Comment=TP_2V5 New Comment=2V5
+Change Component Comment : Designator=TP_3 Old Comment=TP_3V3 New Comment=3V3
+Added Pin To Net: NetName=SDATA_A Pin=U1-140
+Added Pin To Net: NetName=SDATA_B Pin=U1-145
+Added Pin To Net: NetName=SPI_SCLK Pin=U1-153

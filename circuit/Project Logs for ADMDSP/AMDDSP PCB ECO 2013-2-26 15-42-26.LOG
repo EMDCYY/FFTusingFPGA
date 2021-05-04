@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=P6-2
+Removed Pin From Net: NetName=GND Pin=P6-3
+Removed Member From Class: ClassName=SH09-PWR2 Member=L18
+Removed Member From Class: ClassName=SH09-PWR2 Member=L18
+Removed Member From Class: ClassName=SH09-PWR2 Member=L19
+Removed Member From Class: ClassName=SH09-PWR2 Member=L19
+Removed Member From Class: ClassName=SH08-PWR1 Member=P6
+Removed Member From Class: ClassName=SH05-DDS Member=R45

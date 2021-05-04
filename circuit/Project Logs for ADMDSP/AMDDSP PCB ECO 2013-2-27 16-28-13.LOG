@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=R42-1
+Removed Pin From Net: NetName=GND Pin=R42-2
+Removed Pin From Net: NetName=A_LCD Pin=TP_2-1
+Change Component Comment : Designator=R42 Old Comment=Res,1K/0603 New Comment=Res,10K/0603
+Added Component: Designator=C12(1210[3528])
+Added Component: Designator=C16(1210[3528])
+Added Component: Designator=D2(SMBJ10A_DIOM4336X24N)
+Added Pin To Net: NetName=A_LCD Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=A_LCD Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=A_LCD Pin=D2-1
+Added Pin To Net: NetName=GND Pin=R42-1
+Added Pin To Net: NetName=NetD1_2 Pin=R42-2
+Added Pin To Net: NetName=NetD1_2 Pin=TP_2-1
+Added Member To Class: ClassName=SH08-PWR1 Member=Component C12 Cap Pol,47uF/15V,1206
+Added Member To Class: ClassName=SH08-PWR1 Member=Component C16 Cap Pol,150uF/15V,1206
+Added Member To Class: ClassName=SH08-PWR1 Member=Component D2 P6SMBJ10A

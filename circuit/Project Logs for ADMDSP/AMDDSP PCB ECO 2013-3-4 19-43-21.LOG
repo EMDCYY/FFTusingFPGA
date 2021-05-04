@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=U18 Old Footprint=SOT230P700X180-4N New Footprint=SOT223P700X180-4N
+Change Component Comment : Designator=U19 Old Comment=PWR_LM1XXX New Comment=LM1117-1V8
+Change Component Comment : Designator=U18 Old Comment=PWR_LM1117-2V5 New Comment=LM1117-2V5
+Added Pin To Net: NetName=2V5A Pin=U18-4
+Added Pin To Net: NetName=1V8 Pin=U19-4

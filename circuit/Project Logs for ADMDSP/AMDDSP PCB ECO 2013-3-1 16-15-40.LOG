@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=R14 Old Footprint=2012[0805] New Footprint=1608[0603]
+Change Component Comment : Designator=R14 Old Comment=Res,10K/0805 New Comment=Res,10K/0603

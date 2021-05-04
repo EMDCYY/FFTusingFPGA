@@ -1,0 +1,98 @@
+Removed Pin From Net: NetName=+5VA Pin=C149-1
+Removed Pin From Net: NetName=AGND Pin=C149-2
+Removed Pin From Net: NetName=+5VA Pin=C150-1
+Removed Pin From Net: NetName=AGND Pin=C150-2
+Removed Pin From Net: NetName=+5VA Pin=C151-1
+Removed Pin From Net: NetName=AGND Pin=C151-2
+Removed Pin From Net: NetName=AGND Pin=C155-1
+Removed Pin From Net: NetName=-5VA Pin=C155-2
+Removed Pin From Net: NetName=AGND Pin=C156-1
+Removed Pin From Net: NetName=-5VA Pin=C156-2
+Removed Pin From Net: NetName=AGND Pin=C157-1
+Removed Pin From Net: NetName=-5VA Pin=C157-2
+Removed Pin From Net: NetName=AGND Pin=C158-1
+Removed Pin From Net: NetName=-5VA Pin=C158-2
+Removed Pin From Net: NetName=AGND Pin=C159-1
+Removed Pin From Net: NetName=-5VA Pin=C159-2
+Removed Pin From Net: NetName=AGND Pin=C160-1
+Removed Pin From Net: NetName=-5VA Pin=C160-2
+Removed Pin From Net: NetName=REFA Pin=C161-1
+Removed Pin From Net: NetName=AGND Pin=C161-2
+Removed Pin From Net: NetName=REFA Pin=C167-1
+Removed Pin From Net: NetName=AGND Pin=C167-2
+Removed Pin From Net: NetName=REFA Pin=C168-1
+Removed Pin From Net: NetName=AGND Pin=C168-2
+Removed Pin From Net: NetName=REFB Pin=C171-1
+Removed Pin From Net: NetName=AGND Pin=C171-2
+Removed Pin From Net: NetName=AGND Pin=C174-2
+Removed Pin From Net: NetName=REFB Pin=C175-1
+Removed Pin From Net: NetName=AGND Pin=C175-2
+Removed Pin From Net: NetName=REFB Pin=C176-1
+Removed Pin From Net: NetName=AGND Pin=C176-2
+Removed Pin From Net: NetName=2V5A Pin=C179-1
+Removed Pin From Net: NetName=AGND Pin=C179-2
+Removed Pin From Net: NetName=2V5A Pin=C183-1
+Removed Pin From Net: NetName=AGND Pin=C183-2
+Removed Pin From Net: NetName=2V5A Pin=C184-1
+Removed Pin From Net: NetName=AGND Pin=C184-2
+Removed Member From Class: ClassName=SH09-PWR2 Member=C143
+Removed Member From Class: ClassName=SH09-PWR2 Member=C144
+Removed Member From Class: ClassName=SH09-PWR2 Member=C145
+Removed Member From Class: ClassName=SH09-PWR2 Member=C146
+Removed Member From Class: ClassName=SH09-PWR2 Member=C147
+Removed Member From Class: ClassName=SH09-PWR2 Member=C148
+Removed Member From Class: ClassName=SH09-PWR2 Member=C149
+Removed Member From Class: ClassName=SH09-PWR2 Member=C150
+Removed Member From Class: ClassName=SH09-PWR2 Member=C151
+Removed Member From Class: ClassName=SH09-PWR2 Member=C152
+Removed Member From Class: ClassName=SH09-PWR2 Member=C153
+Removed Member From Class: ClassName=SH09-PWR2 Member=C154
+Removed Member From Class: ClassName=SH09-PWR2 Member=C155
+Removed Member From Class: ClassName=SH09-PWR2 Member=C156
+Removed Member From Class: ClassName=SH09-PWR2 Member=C157
+Removed Member From Class: ClassName=SH09-PWR2 Member=C158
+Removed Member From Class: ClassName=SH09-PWR2 Member=C159
+Removed Member From Class: ClassName=SH09-PWR2 Member=C160
+Removed Member From Class: ClassName=SH09-PWR2 Member=C161
+Removed Member From Class: ClassName=SH09-PWR2 Member=C167
+Removed Member From Class: ClassName=SH09-PWR2 Member=C168
+Removed Member From Class: ClassName=SH09-PWR2 Member=C171
+Removed Member From Class: ClassName=SH09-PWR2 Member=C175
+Removed Member From Class: ClassName=SH09-PWR2 Member=C176
+Removed Member From Class: ClassName=SH09-PWR2 Member=C179
+Removed Member From Class: ClassName=SH09-PWR2 Member=C183
+Removed Member From Class: ClassName=SH09-PWR2 Member=C184
+Change Component Footprint: Designator=C149 Old Footprint=1206[3216] New Footprint=1608[0603]
+Change Component Footprint: Designator=C151 Old Footprint=1206[3216] New Footprint=1608[0603]
+Change Component Footprint: Designator=C150 Old Footprint=1206[3216] New Footprint=2012[0805]
+Change Component Footprint: Designator=C144 Old Footprint=1608[0603] New Footprint=2012[0805]
+Change Component Footprint: Designator=C146 Old Footprint=1608[0603] New Footprint=2012[0805]
+Change Component Footprint: Designator=C148 Old Footprint=1608[0603] New Footprint=2012[0805]
+Change Component Footprint: Designator=C152 Old Footprint=1608[0603] New Footprint=2012[0805]
+Change Component Footprint: Designator=C154 Old Footprint=1608[0603] New Footprint=2012[0805]
+Change Component Comment : Designator=C154 Old Comment=Cap,0.1uF/0603 New Comment=Cap,1uF/0805
+Change Component Comment : Designator=C152 Old Comment=Cap,0.1uF/0603 New Comment=Cap,1uF/0805
+Change Component Comment : Designator=C148 Old Comment=Cap,0.1uF/0603 New Comment=Cap,1uF/0805
+Change Component Comment : Designator=C146 Old Comment=Cap,0.1uF/0603 New Comment=Cap,1uF/0805
+Change Component Comment : Designator=C144 Old Comment=Cap,0.1uF/0603 New Comment=Cap,1uF/0805
+Change Component Comment : Designator=C151 Old Comment=Cap Pol,10uF/25V,1206 New Comment=Cap,0.1uF/0603
+Change Component Comment : Designator=C149 Old Comment=Cap Pol,10uF/25V,1206 New Comment=Cap,0.1uF/0603
+Change Component Comment : Designator=C150 Old Comment=Cap Pol,10uF/25V,1206 New Comment=Cap,1uF/0805
+Added Pin To Net: NetName=AGND Pin=C149-1
+Added Pin To Net: NetName=-5VA Pin=C149-2
+Added Pin To Net: NetName=AGND Pin=C150-1
+Added Pin To Net: NetName=-5VA Pin=C150-2
+Added Pin To Net: NetName=AGND Pin=C151-1
+Added Pin To Net: NetName=-5VA Pin=C151-2
+Added Member To Class: ClassName=SH03-AD Member=Component C143 Cap,0.1uF/0603
+Added Member To Class: ClassName=SH03-AD Member=Component C144 Cap,1uF/0805
+Added Member To Class: ClassName=SH03-AD Member=Component C145 Cap,0.1uF/0603
+Added Member To Class: ClassName=SH03-AD Member=Component C146 Cap,1uF/0805
+Added Member To Class: ClassName=SH03-AD Member=Component C147 Cap,0.1uF/0603
+Added Member To Class: ClassName=SH03-AD Member=Component C148 Cap,1uF/0805
+Added Member To Class: ClassName=SH03-AD Member=Component C149 Cap,0.1uF/0603
+Added Member To Class: ClassName=SH03-AD Member=Component C150 Cap,1uF/0805
+Added Member To Class: ClassName=SH03-AD Member=Component C151 Cap,0.1uF/0603
+Added Member To Class: ClassName=SH03-AD Member=Component C152 Cap,1uF/0805
+Added Member To Class: ClassName=SH03-AD Member=Component C153 Cap,0.1uF/0603
+Added Member To Class: ClassName=SH03-AD Member=Component C154 Cap,1uF/0805

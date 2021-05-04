@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=A_LCD Pin=L17-1
+Removed Member From Class: ClassName=SH09-PWR2 Member=L17
+Removed Member From Class: ClassName=SH09-PWR2 Member=L17
+Added Pin To Net: NetName=A_LCD Pin=C149-1
+Added Pin To Net: NetName=A_LCD Pin=C150-1
+Added Pin To Net: NetName=A_LCD Pin=C152-1
+Added Pin To Net: NetName=A_LCD Pin=C153-1
+Added Pin To Net: NetName=A_LCD Pin=C157-1
+Added Pin To Net: NetName=A_LCD Pin=C158-1
+Added Pin To Net: NetName=A_LCD Pin=U16-2
+Added Pin To Net: NetName=A_LCD Pin=U17-2
+Added Pin To Net: NetName=A_LCD Pin=U18-2

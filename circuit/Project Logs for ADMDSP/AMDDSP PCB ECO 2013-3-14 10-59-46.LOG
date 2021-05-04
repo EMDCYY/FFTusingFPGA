@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=CLK_FPGA_50M Pin=U1-124
+Change Component Comment : Designator=C48 Old Comment=Cap,0.01nF/0603 New Comment=Cap,10pF/0603
+Change Component Comment : Designator=C40 Old Comment=Cap,0.01nF/0603 New Comment=Cap,10pF/0603
+Change Component Comment : Designator=C168 Old Comment=Cap Pol,10uF/16V,1206 New Comment=Cap Pol,10uF/25V,1206
+Change Component Comment : Designator=C167 Old Comment=Cap Pol,10uF/16V,1206 New Comment=Cap Pol,10uF/25V,1206
+Change Component Comment : Designator=C158 Old Comment=Cap Pol,10uF/16V,1206 New Comment=Cap Pol,10uF/25V,1206
+Change Component Comment : Designator=C157 Old Comment=Cap Pol,10uF/16V,1206 New Comment=Cap Pol,10uF/25V,1206
+Change Component Comment : Designator=C153 Old Comment=Cap Pol,10uF/16V,1206 New Comment=Cap Pol,10uF/25V,1206
+Change Component Comment : Designator=C150 Old Comment=Cap Pol,10uF/16V,1206 New Comment=Cap Pol,10uF/25V,1206
+Change Component Comment : Designator=C4 Old Comment=Cap Pol,10uF/16V,1206 New Comment=Cap Pol,10uF/25V,1206
+Change Component Comment : Designator=C12 Old Comment=Cap Pol,47uF/15V,1206 New Comment=Cap Pol,47uF/25V,1210
+Change Component Comment : Designator=C16 Old Comment=Cap Pol,150uF/15V,1206 New Comment=Cap Pol,150uF/25V,7343
+Change Component Comment : Designator=P1 Old Comment=Header 3 New Comment=牛角头 5X2
+Change Component Comment : Designator=P3 Old Comment=Header 8 New Comment=绿色端子 8PIN,3.5mm间距
+Change Component Comment : Designator=L15 Old Comment=Inductor,L0603,3.585uH New Comment=Inductor,L0805,3.585uH
+Change Component Comment : Designator=L14 Old Comment=Inductor,L0603,3.585uH New Comment=Inductor,L0805,3.585uH
+Change Component Comment : Designator=L11 Old Comment=Inductor,L0603,3.585uH New Comment=Inductor,L0805,3.585uH
+Change Component Comment : Designator=L10 Old Comment=Inductor,L0603,3.585uH New Comment=Inductor,L0805,3.585uH
+Change Component Comment : Designator=L8 Old Comment=Inductor,L0603,35.415nH New Comment=Inductor,L0805,35.415nH
+Change Component Comment : Designator=L5 Old Comment=Inductor,L0603,35.415nH New Comment=Inductor,L0805,35.415nH
+Change Component Comment : Designator=L4 Old Comment=Inductor,L0603,35.415nH New Comment=Inductor,L0805,35.415nH
+Change Component Comment : Designator=L1 Old Comment=Inductor,L0603,35.415nH New Comment=Inductor,L0805,35.415nH
+Change Component Comment : Designator=L7 Old Comment=Inductor,L0603,143.394nH New Comment=Inductor,L0805,143.394nH
+Change Component Comment : Designator=L6 Old Comment=Inductor,L0603,143.394nH New Comment=Inductor,L0805,143.394nH
+Change Component Comment : Designator=L3 Old Comment=Inductor,L0603,143.394nH New Comment=Inductor,L0805,143.394nH
+Change Component Comment : Designator=L2 Old Comment=Inductor,L0603,143.394nH New Comment=Inductor,L0805,143.394nH
+Change Component Comment : Designator=L16 Old Comment=Inductor,L0603,885.383nH New Comment=Inductor,L0805,885.383nH
+Change Component Comment : Designator=L13 Old Comment=Inductor,L0603,885.383nH New Comment=Inductor,L0805,885.383nH
+Change Component Comment : Designator=L12 Old Comment=Inductor,L0603,885.383nH New Comment=Inductor,L0805,885.383nH
+Change Component Comment : Designator=L9 Old Comment=Inductor,L0603,885.383nH New Comment=Inductor,L0805,885.383nH
+Change Component Comment : Designator=R29 Old Comment=Res,0R/0805 New Comment=Res,0R/0603
+Change Component Comment : Designator=R11 Old Comment=Res,1K/0805 New Comment=Res,1K/0603
+Change Component Comment : Designator=R10 Old Comment=Res,1K/0805 New Comment=Res,1K/0603
+Change Component Comment : Designator=R9 Old Comment=Res,1K/0805 New Comment=Res,1K/0603
+Change Component Comment : Designator=R8 Old Comment=Res,1K/0805 New Comment=Res,1K/0603
+Change Component Comment : Designator=R3 Old Comment=Res,2.2R/0805 New Comment=Res,2.2R/0603
+Change Component Comment : Designator=R2 Old Comment=Res,2.2R/0805 New Comment=Res,2.2R/0603
+Change Component Comment : Designator=R7 Old Comment=Res,4.7K/0805 New Comment=Res,4.7K/0603
+Change Component Comment : Designator=R4 Old Comment=Res,4.7K/0805 New Comment=Res,4.7K/0603
+Change Component Comment : Designator=R1 Old Comment=Res,4.7K/0805 New Comment=Res,4.7K/0603
+Change Component Comment : Designator=R13 Old Comment=Res,10K/0805 New Comment=Res,10K/0603
+Change Component Comment : Designator=R12 Old Comment=Res,10K/0805 New Comment=Res,10K/0603
+Change Component Comment : Designator=R33 Old Comment=Res,49.9R/0805 New Comment=Res,49R9/0603
+Change Component Comment : Designator=R32 Old Comment=Res,49.9R/0805 New Comment=Res,49R9/0603
+Change Component Comment : Designator=R28 Old Comment=Res,50R/0805 New Comment=Res,50R/0603
+Change Component Comment : Designator=R27 Old Comment=Res,50R/0805 New Comment=Res,50R/0603
+Change Component Comment : Designator=R26 Old Comment=Res,50R/0805 New Comment=Res,50R/0603
+Change Component Comment : Designator=R25 Old Comment=Res,50R/0805 New Comment=Res,50R/0603
+Change Component Comment : Designator=R24 Old Comment=Res,50R/0805 New Comment=Res,50R/0603
+Change Component Comment : Designator=R23 Old Comment=Res,50R/0805 New Comment=Res,50R/0603
+Change Component Comment : Designator=R22 Old Comment=Res,50R/0805 New Comment=Res,50R/0603
+Change Component Comment : Designator=R21 Old Comment=Res,50R/0805 New Comment=Res,50R/0603
+Change Component Comment : Designator=R30 Old Comment=Res,910R/0805 New Comment=Res,910R/0603
+Added Pin To Net: NetName=CLK_FPGA_50M Pin=U1-183

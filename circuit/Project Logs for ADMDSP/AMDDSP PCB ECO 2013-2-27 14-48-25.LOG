@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=REFA Pin=C12-1
+Removed Pin From Net: NetName=AGND Pin=C12-2
+Removed Pin From Net: NetName=REFB Pin=C16-1
+Removed Pin From Net: NetName=AGND Pin=C16-2
+Removed Member From Class: ClassName=SH03-AD Member=C12
+Removed Member From Class: ClassName=SH03-AD Member=C16

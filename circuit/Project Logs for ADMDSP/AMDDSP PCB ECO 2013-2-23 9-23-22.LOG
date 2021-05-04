@@ -1,0 +1,18 @@
+Added Component: Designator=J2(IF_KLD-0202)
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1A
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1B
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2A
+Added Pin To Net: NetName=GND Pin=J2-2B
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3A
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3B
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Member To Class: ClassName=SH08-PWR1 Member=Component J2 5V INPUT
+Added Room: Name=SH02-PERI
+Added Room: Name=SH03-AD
+Added Room: Name=SH05-DDS
+Added Room: Name=SH06-UI
+Added Room: Name=SH08-PWR1
+Added Room: Name=SH09-PWR2
+Added Room: Name=SH10-ASSI

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=A_LCD Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=A_LCD Pin=D2-2

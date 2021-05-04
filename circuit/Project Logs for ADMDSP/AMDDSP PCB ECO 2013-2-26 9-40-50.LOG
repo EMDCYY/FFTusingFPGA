@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=NetCF2_2 Pin=U5-1
+Added Pin To Net: NetName=NetC13_1 Pin=U5-2
+Added Pin To Net: NetName=A_LCD Pin=U5-3
+Added Pin To Net: NetName=NetCF2_1 Pin=U5-4
+Added Pin To Net: NetName=NetCF1_1 Pin=U5-5
+Added Pin To Net: NetName=AGND Pin=U5-6
+Added Pin To Net: NetName=NetCF1_2 Pin=U5-8
+Added Pin To Net: NetName=NetCF4_2 Pin=U8-1
+Added Pin To Net: NetName=NetC17_1 Pin=U8-2
+Added Pin To Net: NetName=A_LCD Pin=U8-3
+Added Pin To Net: NetName=NetCF4_1 Pin=U8-4
+Added Pin To Net: NetName=NetCF3_1 Pin=U8-5
+Added Pin To Net: NetName=AGND Pin=U8-6
+Added Pin To Net: NetName=NetCF3_2 Pin=U8-8

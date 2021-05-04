@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=A_LCD Pin=C157-1
+Removed Pin From Net: NetName=A_LCD Pin=U18-2
+Removed Pin From Net: NetName=AGND Pin=U18-4
+Removed Pin From Net: NetName=2V5A Pin=U18-6
+Change Component Footprint: Designator=C157 Old Footprint=1608[0603] New Footprint=1206[3216]
+Change Component Footprint: Designator=C161 Old Footprint=1608[0603] New Footprint=1210[3528]
+Change Component Footprint: Designator=U18 Old Footprint=SOIC127P600X175-8N New Footprint=SOT230P700X180-4N
+Change Component Footprint: Designator=U19 Old Footprint=SOT230P700X180-4N New Footprint=SOT223P700X180-4N
+Change Component Comment : Designator=U18 Old Comment=ADR421 New Comment=PWR_LM1117-2V5
+Change Component Comment : Designator=C157 Old Comment=Cap,0.1uF/0603 New Comment=Cap Pol,10uF/16V,1206
+Change Component Comment : Designator=C161 Old Comment=Cap,0.1uF/0603 New Comment=Cap Pol,100uF/25V,1210
+Added Pin To Net: NetName=2V5A Pin=C157-1
+Added Pin To Net: NetName=2V5A Pin=TP_8-1
+Added Pin To Net: NetName=AGND Pin=U18-1
+Added Pin To Net: NetName=2V5A Pin=U18-2
+Added Pin To Net: NetName=A_LCD Pin=U18-3

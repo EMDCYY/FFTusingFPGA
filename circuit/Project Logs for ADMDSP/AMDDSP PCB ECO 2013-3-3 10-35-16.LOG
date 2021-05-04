@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=1V2 Pin=C132-1
+Removed Pin From Net: NetName=GND Pin=C132-2
+Removed Pin From Net: NetName=1V2 Pin=C133-1
+Removed Pin From Net: NetName=GND Pin=C133-2
+Removed Pin From Net: NetName=1V2 Pin=C134-1
+Removed Pin From Net: NetName=GND Pin=C134-2
+Removed Pin From Net: NetName=1V2 Pin=C135-1
+Removed Pin From Net: NetName=GND Pin=C135-2
+Removed Pin From Net: NetName=NU_SPI_2 Pin=U1-74
+Removed Pin From Net: NetName=NU_SPI_1 Pin=U1-75
+Removed Pin From Net: NetName=SPI_W Pin=U1-76
+Removed Pin From Net: NetName=SPI_R Pin=U1-77
+Removed Pin From Net: NetName=SS Pin=U1-78
+Removed Pin From Net: NetName=MISO Pin=U1-82
+Removed Pin From Net: NetName=MOSI Pin=U1-83
+Removed Pin From Net: NetName=SPI_SCLK Pin=U1-84
+Removed Member From Class: ClassName=SH08-PWR1 Member=C132
+Removed Member From Class: ClassName=SH08-PWR1 Member=C132
+Removed Member From Class: ClassName=SH08-PWR1 Member=C133
+Removed Member From Class: ClassName=SH08-PWR1 Member=C133
+Removed Member From Class: ClassName=SH08-PWR1 Member=C134
+Removed Member From Class: ClassName=SH08-PWR1 Member=C134
+Removed Member From Class: ClassName=SH08-PWR1 Member=C135
+Removed Member From Class: ClassName=SH08-PWR1 Member=C135
+Added Component: Designator=R5(1608[0603])
+Added Component: Designator=R6(1608[0603])
+Added Component: Designator=R46(1608[0603])
+Added Component: Designator=R47(1608[0603])
+Added Component: Designator=R48(1608[0603])
+Added Component: Designator=R49(1608[0603])
+Added Component: Designator=R50(1608[0603])
+Added Component: Designator=R51(1608[0603])
+Added Component: Designator=R52(1608[0603])
+Added Component: Designator=R53(1608[0603])
+Added Component: Designator=R54(1608[0603] - NoTopOverlay)
+Added Component: Designator=R55(1608[0603] - NoTopOverlay)
+Added Component: Designator=R56(1608[0603] - NoTopOverlay)
+Added Component: Designator=R57(1608[0603] - NoTopOverlay)
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Pin To Net: NetName=NU_SPI_2 Pin=R5-2
+Added Pin To Net: NetName=3V3 Pin=R6-1
+Added Pin To Net: NetName=NU_SPI_1 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R46-1
+Added Pin To Net: NetName=SPI_W Pin=R46-2
+Added Pin To Net: NetName=3V3 Pin=R47-1
+Added Pin To Net: NetName=SPI_R Pin=R47-2
+Added Pin To Net: NetName=3V3 Pin=R48-1
+Added Pin To Net: NetName=SS Pin=R48-2
+Added Pin To Net: NetName=3V3 Pin=R49-1
+Added Pin To Net: NetName=MISO Pin=R49-2
+Added Pin To Net: NetName=3V3 Pin=R50-1
+Added Pin To Net: NetName=MOSI Pin=R50-2
+Added Pin To Net: NetName=3V3 Pin=R51-1
+Added Pin To Net: NetName=SPI_SCLK Pin=R51-2
+Added Pin To Net: NetName=NU_SPI_2 Pin=R52-1
+Added Pin To Net: NetName=GND Pin=R52-2
+Added Pin To Net: NetName=NU_SPI_1 Pin=R53-1
+Added Pin To Net: NetName=GND Pin=R53-2
+Added Pin To Net: NetName=MOSI Pin=R54-2
+Added Pin To Net: NetName=MISO Pin=R55-2
+Added Pin To Net: NetName=NU_SPI_1 Pin=R56-2
+Added Pin To Net: NetName=NU_SPI_2 Pin=R57-2
+Added Pin To Net: NetName=SPI_W Pin=U1-18
+Added Pin To Net: NetName=SPI_R Pin=U1-19
+Added Pin To Net: NetName=SS Pin=U1-22
+Added Pin To Net: NetName=SPI_SCLK Pin=U1-25
+Added Pin To Net: NetName=NetR54_1 Pin=R54-1
+Added Pin To Net: NetName=NetR54_1 Pin=U1-24
+Added Net: Name=NetR54_1
+Added Pin To Net: NetName=NetR55_1 Pin=R55-1
+Added Pin To Net: NetName=NetR55_1 Pin=U1-23
+Added Net: Name=NetR55_1
+Added Pin To Net: NetName=NetR56_1 Pin=R56-1
+Added Pin To Net: NetName=NetR56_1 Pin=U1-16
+Added Net: Name=NetR56_1
+Added Pin To Net: NetName=NetR57_1 Pin=R57-1
+Added Pin To Net: NetName=NetR57_1 Pin=U1-15
+Added Net: Name=NetR57_1
+Added Member To Class: ClassName=SH02-PERI Member=Component R5 Res,10K/0603
+Added Member To Class: ClassName=SH02-PERI Member=Component R6 Res,10K/0603
+Added Member To Class: ClassName=SH02-PERI Member=Component R46 Res,10K/0603
+Added Member To Class: ClassName=SH02-PERI Member=Component R47 Res,10K/0603
+Added Member To Class: ClassName=SH02-PERI Member=Component R48 Res,10K/0603
+Added Member To Class: ClassName=SH02-PERI Member=Component R49 Res,10K/0603
+Added Member To Class: ClassName=SH02-PERI Member=Component R50 Res,10K/0603
+Added Member To Class: ClassName=SH02-PERI Member=Component R51 Res,10K/0603
+Added Member To Class: ClassName=SH02-PERI Member=Component R52 Res,10K/0603
+Added Member To Class: ClassName=SH02-PERI Member=Component R53 Res,10K/0603
+Added Member To Class: ClassName=SH05-DDS Member=Component R54 Res,0R/0603
+Added Member To Class: ClassName=SH05-DDS Member=Component R55 Res,0R/0603
+Added Member To Class: ClassName=SH05-DDS Member=Component R56 Res,0R/0603
+Added Member To Class: ClassName=SH05-DDS Member=Component R57 Res,0R/0603

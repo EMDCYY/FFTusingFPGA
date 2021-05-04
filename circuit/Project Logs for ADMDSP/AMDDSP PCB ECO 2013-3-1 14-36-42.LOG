@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TX232_FPGA Pin=U1-152
+Removed Pin From Net: NetName=RX232_FPGA Pin=U1-153
+Added Pin To Net: NetName=TX232_FPGA Pin=U1-106
+Added Pin To Net: NetName=RX232_FPGA Pin=U1-107
